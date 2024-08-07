@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://explorelogicsit.com/el20
+Data file = /home4/explouv4/public_html/el20/wp-content/themes/avante/data/demos/demo1/demo.xml
+Widget file = not defined!
+Customizer file = /home4/explouv4/public_html/el20/wp-content/themes/avante/data/demos/demo1/demo.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bsf_custom_fonts Gilroy-ExtraBold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Bold
+[WARNING] Failed to import bsf_custom_fonts GlacialIndifference-Regular
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
