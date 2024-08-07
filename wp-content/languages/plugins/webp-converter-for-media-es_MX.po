@@ -1,0 +1,180 @@
+# Translation of Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-30 14:09:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release)\n"
+
+#: src/Error/Notice/RewritesCachedNotice.php:24
+msgid "Your server uses the cache for HTTP requests. The rules from .htaccess file or from Nginx configuration are not executed every time when the image is loaded, but the last redirect from cache is performed. With each request to image, your server should execute the rules from .htaccess file or from Nginx configuration. Now it only does this the first time and then uses cache. This means that if your server redirected image to WebP format the first time, it does so on every request. It should check the rules from .htaccess file or from Nginx configuration each time during request to image and redirect only when the conditions are met."
+msgstr "Tu servidor usa la caché para las peticiones HTTP. Las reglas del archivo \".htaccess\" o de la configuración de Nginx no se ejecutan cada vez que se carga la imagen, sino cuando se realiza la última redirección desde la caché. Con cada petición a la imagen, tu servidor debería ejecutar las reglas del archivo \".htaccess\" o de la configuración de Nginx. Ahora, lo hace solo la primera vez y luego usa la caché. Esto significa que si tu servidor redirige la imagen al formato WebP la primera vez, lo hace en cada petición. Debería comprobar las reglas del archivo \".htaccess\" o de la configuración de Nginx cada vez que se solicite la imagen y redirigir solo cuando se cumplan las condiciones."
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag, %3$s: errors
+#. codes
+#: templates/components/widgets/errors.php:32
+msgid "%1$sError codes:%2$s %3$s"
+msgstr "%1$sCódigos de error:%2$s %3$s"
+
+#: src/Error/Notice/PassthruExecutionNotice.php:33
+#: src/Error/Notice/RewritesCachedNotice.php:25
+#: src/Error/Notice/RewritesNotExecutedNotice.php:51
+#: src/Error/Notice/RewritesNotWorkingNotice.php:30
+msgid "In this case, please contact your server administrator."
+msgstr "En este caso, por favor, contacta con el administrador de tu servidor."
+
+#: src/Error/Notice/SettingsIncorrectNotice.php:24
+msgid "The plugin settings are incorrect! Check them out and save them again. Please remember that you must have at least one option selected for each field."
+msgstr "¡Los ajustes del plugin no son correctos! Compruébalos y vuelve a guardarlos. Por favor, recuerda que debes tener, al menos, una opción seleccionada para cada campo."
+
+#: src/Settings/Option/OutputFormatsOption.php:65
+msgid "List of supported output formats"
+msgstr "Lista de formatos de salida compatibles"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: src/Plugin/Links.php:78
+msgid "%1$sSettings%2$s"
+msgstr "%1$sAjustes%2$s"
+
+#: src/Settings/Option/LoaderTypeOption.php:40
+msgid "Image loading mode"
+msgstr "Modo de carga de la imagen"
+
+#: src/Settings/Option/LoaderTypeOption.php:47
+msgid "By changing image loading mode it allows you to bypass some server configuration problems."
+msgstr "Al cambiar el modo de carga de la imagen, te permite evitar algunos problemas de configuración del servidor."
+
+#: src/Settings/Option/LoaderTypeOption.php:60
+msgid "via .htaccess"
+msgstr "a través del archivo \".htaccess\""
+
+#. translators: %s: anchor tag
+#: src/Error/Notice/PassthruExecutionNotice.php:29
+msgid "Execution of the PHP file from path \"%s\" is blocked on your server, or access to this file is blocked. Add an exception and enable this file to be executed via HTTP request. To do this, check the security plugin settings (if you are using) or the security settings of your server."
+msgstr "La ejecución del archivo PHP de la ruta \"%s\" está bloqueada en tu servidor o el acceso a este archivo está bloqueado. Añade una excepción y permite que este archivo sea ejecutado a través de una petición HTTP. Para hacerlo, comprueba los ajustes del plugin de seguridad (si lo estás usando) o los ajustes de seguridad de tu servidor."
+
+#: templates/components/widgets/regenerate.php:169
+#: templates/views/settings.php:43
+msgid "Please flush cache if you use caching plugin or caching via hosting."
+msgstr "Por favor, vacía la caché si usas un plugin de almacenamiento en la caché o la caché es a través del hosting."
+
+#: templates/components/widgets/about.php:24
+msgid "The plugin in default loading mode (via .htaccess) does not change file URLs, so there are no problems with saving the page to the cache and the page generation time does not increase."
+msgstr "En el modo de carga predeterminado (a través del archivo \".htaccess\"), el plugin no cambia las URL del archivo, por lo que no hay problemas al guardar la página en la caché y no aumenta el tiempo de generación de la página."
+
+#: src/Service/DeactivationModalGenerator.php:69
+msgid "I have \"Server configuration error\" in plugin settings"
+msgstr "En los ajustes del plugin, tengo \"Error en la configuración del servidor\""
+
+#: src/Service/DeactivationModalGenerator.php:83
+msgid "What is your error? Have you been looking for solution to this issue?"
+msgstr "¿Cuál es tu error? ¿Has estado buscando una solución a este problema?"
+
+#: src/Service/DeactivationModalGenerator.php:106
+msgid "This plugin broke my website"
+msgstr "El plugin ha roto mi web"
+
+#: src/Service/DeactivationModalGenerator.php:108
+msgid "What exactly happened?"
+msgstr "¿Qué ha ocurrido exactamente?"
+
+#: src/Service/DeactivationModalGenerator.php:115
+msgid "I found a better plugin"
+msgstr "He encontrado un plugin mejor"
+
+#: src/Service/DeactivationModalGenerator.php:117
+msgid "What is name of this plugin? Why is it better?"
+msgstr "¿Cuál es el nombre de ese plugin? ¿Por qué es mejor?"
+
+#: src/Service/DeactivationModalGenerator.php:124
+msgid "This is a temporary deactivation"
+msgstr "Es una desactivación temporal"
+
+#: src/Service/DeactivationModalGenerator.php:133
+msgid "Other reason"
+msgstr "Otra razón"
+
+#: src/Service/DeactivationModalGenerator.php:135
+msgid "What is reason? What can we improve for you?"
+msgstr "¿Cuál es la razón? ¿Qué podemos mejorar?"
+
+#: src/Service/DeactivationModalGenerator.php:60
+msgid "Submit and Deactivate"
+msgstr "Enviar y desactivar"
+
+#: src/Service/DeactivationModalGenerator.php:61
+msgid "Skip and Deactivate"
+msgstr "Saltar y desactivar"
+
+#: templates/components/widgets/regenerate.php:187
+msgid "Additional informations about process:"
+msgstr "Información adicional sobre el proceso:"
+
+#: templates/components/notices/welcome.php:37
+msgid "Speed up my website"
+msgstr "Acelerar mi web"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:68
+msgid "Enable cron to automatically convert images from outside Media Library (images from Media Library are converted immediately after upload)"
+msgstr "Activa el programador de tareas para convertir automáticamente las imágenes de fuera de la biblioteca de medios (las imágenes de la biblioteca de medios se convierten inmediatamente después de subirlas)"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:72
+msgid "Log errors while converting to debug.log file (when debugging in WordPress is active)"
+msgstr "Registra los errores al convertir en el archivo debug.log (cuando está activa la depuración en WordPress)"
+
+#: src/Settings/Option/SupportedDirectoriesOption.php:39
+msgid "List of supported directories"
+msgstr "Lista de directorios compatibles"
+
+#: templates/components/widgets/errors.php:15
+msgid "Server configuration error"
+msgstr "Error de configuración del servidor"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:59
+msgid "%s (recommended)"
+msgstr "%s (recomendado)"
+
+#: src/Settings/Option/ConversionMethodOption.php:57
+msgid "Conversion method"
+msgstr "Método de conversión"
+
+#: src/Settings/Option/SupportedExtensionsOption.php:37
+msgid "List of supported files extensions"
+msgstr "Lista de extensiones de archivo compatibles"
+
+#: templates/views/settings.php:42
+msgid "Changes were successfully saved!"
+msgstr "¡Los cambios se han guardado correctamente!"
+
+#: templates/components/widgets/options.php:44
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: templates/components/widgets/regenerate.php:22
+msgid "An error occurred while connecting to REST API. Please try again."
+msgstr "Ha ocurrido un error al conectarse a la API REST. Por favor, inténtalo de nuevo."
+
+#: src/Service/WpCliManager.php:115
+#: templates/components/widgets/regenerate.php:168
+msgid "The process was completed successfully. Your images have been converted!"
+msgstr "El proceso se ha completado correctamente. ¡Tus imágenes se han convertido!"
+
+#. translators: %s progress value
+#: src/Service/WpCliManager.php:122
+#: templates/components/widgets/regenerate.php:143
+msgid "Saving the weight of your images: %s"
+msgstr "Ahorrando en el peso de tus imágenes: %s"
+
+#: templates/components/widgets/support.php:13
+msgid "We are waiting for your message"
+msgstr "Estamos esperando por tu mensaje"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:43
+msgid "Extra features"
+msgstr "Funcionalidades adicionales"

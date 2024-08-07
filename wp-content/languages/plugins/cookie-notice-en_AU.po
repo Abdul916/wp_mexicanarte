@@ -1,0 +1,266 @@
+# Translation of Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) in English (Australia)
+# This file is distributed under the same license as the Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-16 23:19:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release)\n"
+
+#: includes/settings.php:727
+msgid "The text of the privacy policy button."
+msgstr "The text of the privacy policy button."
+
+#: includes/settings.php:948
+msgid "Enter additional button CSS classes separated by spaces."
+msgstr "Enter additional button CSS classes separated by spaces."
+
+#: includes/settings.php:776
+msgid "Select the privacy policy link target."
+msgstr "Select the privacy policy link target."
+
+#: includes/settings.php:759
+msgid "Synchronize with WordPress Privacy Policy page."
+msgstr "Synchronise with WordPress Privacy Policy page."
+
+#: includes/settings.php:724
+msgid "Enable privacy policy link."
+msgstr "Enable privacy policy link."
+
+#: includes/settings.php:653
+msgid "The code to be used in your site footer, before the closing body tag."
+msgstr "The code to be used in your site footer, before the closing body tag."
+
+#: includes/settings.php:649
+msgid "The code to be used in your site header, before the closing head tag."
+msgstr "The code to be used in your site header, before the closing head tag."
+
+#: includes/settings.php:646
+msgid "Body"
+msgstr "Body"
+
+#: includes/settings.php:645
+msgid "Head"
+msgstr "Head"
+
+#: includes/settings.php:400
+msgid "Button class"
+msgstr "Button class"
+
+#: includes/settings.php:133 includes/settings.php:157
+#: includes/settings.php:383
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+#: includes/settings.php:88
+msgid "An hour"
+msgstr "An hour"
+
+#: includes/settings.php:64
+msgid "Manual"
+msgstr "Manual"
+
+#: includes/settings.php:63
+msgid "Automatic"
+msgstr "Automatic"
+
+#: includes/settings.php:683
+msgid "Select the method for displaying the revoke button - automatic (in the banner) or manual using <code>[cookies_revoke]</code> shortcode."
+msgstr "Select the method for displaying the revoke button - automatic (in the banner) or manual using <code>[cookies_revoke]</code> shortcode."
+
+#: includes/settings.php:675
+msgid "The text of the button to revoke the consent."
+msgstr "The text of the button to revoke the consent."
+
+#: includes/settings.php:670
+msgid "Enable to give to the user the possibility to revoke their consent <i>(requires \"Refuse consent\" option enabled)</i>."
+msgstr "Enable to give to the user the possibility to revoke their consent <i>(requires \"Refuse consent\" option enabled)</i>."
+
+#: includes/settings.php:387
+msgid "Reloading"
+msgstr "Reloading"
+
+#: includes/settings.php:697
+msgid "Enable to reload the page after the notice is accepted."
+msgstr "Enable to reload the page after the notice is accepted."
+
+#: includes/settings.php:386
+msgid "Script blocking"
+msgstr "Script blocking"
+
+#: includes/settings.php:657
+msgid "To get the user consent status use the <code>cn_cookies_accepted()</code> function."
+msgstr "To get the user consent status use the <code>cn_cookies_accepted()</code> function."
+
+#: cookie-notice.php:1006
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/settings.php:76 includes/settings.php:381
+msgid "Message"
+msgstr "Message"
+
+#: includes/settings.php:154
+msgid "No"
+msgstr "No"
+
+#: includes/settings.php:397
+msgid "Position"
+msgstr "Position"
+
+#: includes/settings.php:80
+msgid "Text color"
+msgstr "Text colour"
+
+#: includes/settings.php:1238
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Are you sure you want to reset these settings to defaults?"
+
+#: includes/settings.php:1143
+msgid "Settings restored to defaults."
+msgstr "Settings restored to defaults."
+
+#: includes/settings.php:853
+msgid "Select where all the plugin scripts should be placed."
+msgstr "Select where all the plugin scripts should be placed."
+
+#: includes/settings.php:766
+msgid "Enter the full URL starting with http(s)://"
+msgstr "Enter the full URL starting with http(s)://"
+
+#: includes/settings.php:753
+msgid "Select from one of your site's pages."
+msgstr "Select from one of your site's pages."
+
+#: includes/settings.php:742
+msgid "-- select page --"
+msgstr "-- select page --"
+
+#: includes/settings.php:622
+msgid "Enable to give to the user the possibility to refuse third party non functional cookies."
+msgstr "Enable to give to the user the possibility to refuse third party non-functional cookies."
+
+#: includes/settings.php:597
+msgid "Enter the cookie notice message."
+msgstr "Enter the cookie notice message."
+
+#: includes/settings.php:935
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "Enable if you want all plugin data to be deleted on deactivation."
+
+#: includes/settings.php:399
+msgid "Colors"
+msgstr "Colours"
+
+#: includes/settings.php:398
+msgid "Animation"
+msgstr "Animation"
+
+#: includes/settings.php:370 includes/settings.php:393
+msgid "Deactivation"
+msgstr "Deactivation"
+
+#: includes/settings.php:369 includes/settings.php:392
+msgid "Script placement"
+msgstr "Script placement"
+
+#: includes/settings.php:388
+msgid "On scroll"
+msgstr "On scroll"
+
+#: includes/settings.php:382
+msgid "Button text"
+msgstr "Button text"
+
+#: includes/settings.php:312
+msgid "Reset to defaults"
+msgstr "Reset to defaults"
+
+#: includes/dashboard.php:509 includes/settings.php:200
+#: includes/welcome.php:374
+msgid "Cookie Notice"
+msgstr "Cookie Notice"
+
+#: includes/settings.php:153
+msgid "Ok"
+msgstr "Ok"
+
+#: includes/settings.php:152
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+
+#: includes/settings.php:107
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/settings.php:106
+msgid "Header"
+msgstr "Header"
+
+#: includes/settings.php:102
+msgid "Slide"
+msgstr "Slide"
+
+#: includes/settings.php:101
+msgid "Fade"
+msgstr "Fade"
+
+#: includes/settings.php:95
+msgid "infinity"
+msgstr "infinity"
+
+#: includes/settings.php:94
+msgid "1 year"
+msgstr "1 year"
+
+#: includes/settings.php:93
+msgid "6 months"
+msgstr "6 months"
+
+#: includes/settings.php:92
+msgid "3 months"
+msgstr "3 months"
+
+#: includes/settings.php:91
+msgid "1 month"
+msgstr "1 month"
+
+#: includes/settings.php:90
+msgid "1 week"
+msgstr "1 week"
+
+#: includes/settings.php:89
+msgid "1 day"
+msgstr "1 day"
+
+#: includes/settings.php:82
+msgid "Bar color"
+msgstr "Bar colour"
+
+#: includes/settings.php:68
+msgid "Page link"
+msgstr "Page link"
+
+#: includes/settings.php:69
+msgid "Custom link"
+msgstr "Custom link"
+
+#: includes/settings.php:657
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs) to be used after the notice is accepted."
+msgstr "Enter non functional cookies JavaScript code here (for e.g. Google Analytics) to be used after the notice is accepted."
+
+#: includes/settings.php:57 includes/settings.php:100
+msgid "None"
+msgstr "None"
+
+#: includes/settings.php:52 includes/welcome.php:451
+msgid "Top"
+msgstr "Top"
+
+#: includes/settings.php:53 includes/welcome.php:450
+msgid "Bottom"
+msgstr "Bottom"

@@ -1,0 +1,28 @@
+# Translation of Plugins - Attachment Pages Redirect - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Attachment Pages Redirect - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-10 20:01:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Attachment Pages Redirect - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://www.samuelaguilera.com"
+msgstr "http://www.samuelaguilera.com"
+
+#. Author of the plugin
+msgid "Samuel Aguilera"
+msgstr "Samuel Aguilera"
+
+#. Description of the plugin
+msgid "Makes attachment pages redirects (301) to post parent if any. If not, redirects (302) to home page."
+msgstr "Hace que las páginas de adjuntos redirijan (301) a la entrada padre si hay alguno. Si no, redirige (302) a la página de inicio."
+
+#. Plugin Name of the plugin
+msgid "Attachment Pages Redirect"
+msgstr "Attachment Pages Redirect"

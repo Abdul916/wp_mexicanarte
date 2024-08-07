@@ -1,0 +1,172 @@
+/*
+Theme Name: Avante Child
+Theme URI: https://themes.themegoods.com/avante/landing
+Description: Premium Business & Consulting WordPress Theme
+Version: 1.0
+Author: ThemeGoods
+Author URI: https://themeforest.net/user/ThemeGoods
+License: GNU General Public License
+License URI: https://themeforest.net/licenses/regular_extended
+Text Domain: avante
+Template: avante
+*/
+
+.home-categories .elementor-widget-container > h5 {
+    display: none;
+}
+.home-categories .elementor-widget-container > ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.home-categories .elementor-widget-container > ul li {
+    background: #fff;
+    box-shadow: 0 0 60px 0 rgb(0 0 0 / 10%);
+    width: calc(25% - 20px);
+    padding: 0;
+    text-align: center;
+    min-height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 0 10px 15px;
+    border: 2px dashed #009e49;
+	min-width: 260px;
+}
+.home-categories .elementor-widget-container > ul li a {
+    font-size: 18px;
+    line-height: 1.2;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    padding: 5px;
+	color: #009e49;
+}
+.home-categories .elementor-widget-container > ul li:hover a{
+	color: #009e49;
+}
+body.js-nav #wrapper{
+	transform: none !important;
+}
+body.js-nav #perspective {
+	overflow: hidden !important;
+}
+body.js-nav .mobile-menu-wrapper {
+	overflow-y: auto !important;
+}
+.overlay_col{
+	position:relative;
+}
+.icon_list .elementor-icon-list-items li.elementor-icon-list-item{
+	display: flex;
+    align-items: flex-start;
+}
+.icon_list .elementor-icon-list-items li.elementor-icon-list-item .elementor-icon-list-icon{
+    padding-top: 6px;
+}
+.burger-link > a {
+    font-size: 30px !important;
+    color: #f05a27 !important;
+}
+.burger-link.arrow.menu-item-has-children > a::after {
+	display: none !important;
+}
+.burger-link.arrow.menu-item-has-children > ul.sub-menu {
+    right: -10px;
+}
+.elementor-widget-text-editor p {
+    padding-bottom: 0 !important;
+}
+li.burger-link > a {
+    position: relative;
+    bottom: -5px;
+}
+ul.elementor-icon-list-items li.elementor-icon-list-item{
+	display: flex;
+	align-items: flex-start;
+}
+ul.elementor-icon-list-items li.elementor-icon-list-item .elementor-icon-list-icon{
+	padding-top: 6px;
+}
+.wpml-ls-slot-46.wpml-ls-current-language,.wpml-ls-slot-46.wpml-ls-current-language a,.wpml-ls-slot-46.wpml-ls-current-language a:visited{
+	background-color: transparent;
+}
+
+div#footer-wrapper .elementor-element-populated .elementor-container .elementor-divider {
+    max-width: 60px;
+    margin: 0 0 0 auto;
+}
+div#footer-wrapper .elementor-element-populated .elementor-container {
+    flex-wrap: nowrap;
+}
+.mob-lang .wpml-ls-current-language > a ~ ul a {
+    border: none;
+}
+.mob-lang .wpml-ls-current-language > a ~ ul {
+    visibility: visible;
+    position: static;
+    border: 0 !important;
+}
+.mob-lang .wpml-ls-current-language > a {
+    display: none;
+}
+.mob-lang .wpml-ls-current-language > a ~ ul a:focus,
+.mob-lang .wpml-ls-current-language > a ~ ul a:hover{
+	background: none !important;
+}
+li.menu-item-language a {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    border: 1px solid #f1f1f1;
+    color: #000000 !important;
+    padding: 5px 7px !important;
+    line-height: 1;
+}
+li.menu-item-language a:before {
+	display: none !important; 
+}
+.upper_amount_div, .amount_div, .lower_amount_div {padding:0px !important; text-align:center !important; color:#CF1026 !important; line-height:1.3 !important;}
+
+/* Customize CSS Start*/
+
+
+ul>li.cat-item:hover {
+    background-color: #f05a27;
+    border: 2px dashed #fff;
+}
+.home-categories .elementor-widget-container > ul li> a:hover {
+    color: #fff;
+}
+.home div#page-header {
+    display: none;
+}
+.blog-posts-grid_no_space {
+    background-size: cover !important;
+}
+div#page-content-wrapper figure a {
+    width: 100%;
+}
+#page-content-wrapper p {
+    padding: 20px 0 0 ;
+}
+
+li.menu-item-language a {
+    border: 1px solid #F05A27!important;
+    color: #F05A27 !important;
+}
+/* Nav-menue-catogeries */
+.nav-Catogeries ul.sub-menu {
+    margin-left: -170px!important;
+	width: 260px!important;
+	}
+.nav-Catogeries .sub-menu ul {
+    left: -80px!important;
+}
+
+/* Nav-menue-catogeries */
+
+/* Customize CSS End*/

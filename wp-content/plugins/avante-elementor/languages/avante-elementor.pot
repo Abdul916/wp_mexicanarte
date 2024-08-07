@@ -1,0 +1,3048 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 14:55+0700\n"
+"PO-Revision-Date: 2017-01-29 17:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: avante-elementor.php:55
+msgid "Add New Header"
+msgstr ""
+
+#: avante-elementor.php:56
+msgid "Edit Header"
+msgstr ""
+
+#: avante-elementor.php:57
+msgid "New Header"
+msgstr ""
+
+#: avante-elementor.php:58
+msgid "View Header"
+msgstr ""
+
+#: avante-elementor.php:59
+msgid "Search Header"
+msgstr ""
+
+#: avante-elementor.php:60
+msgid "No Header found"
+msgstr ""
+
+#: avante-elementor.php:61
+msgid "No Header found in Trash"
+msgstr ""
+
+#: avante-elementor.php:97
+msgid "Add New Footer"
+msgstr ""
+
+#: avante-elementor.php:98
+msgid "Edit Footer"
+msgstr ""
+
+#: avante-elementor.php:99
+msgid "New Footer"
+msgstr ""
+
+#: avante-elementor.php:100
+msgid "View Footer"
+msgstr ""
+
+#: avante-elementor.php:101
+msgid "Search Footer"
+msgstr ""
+
+#: avante-elementor.php:102
+msgid "No Footer found"
+msgstr ""
+
+#: avante-elementor.php:103
+msgid "No Footer found in Trash"
+msgstr ""
+
+#: avante-elementor.php:134
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: avante-elementor.php:135
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: avante-elementor.php:136
+msgid "New Mega Menu"
+msgstr ""
+
+#: avante-elementor.php:137
+msgid "View Mega Menu"
+msgstr ""
+
+#: avante-elementor.php:138
+msgid "Search Mega Menu"
+msgstr ""
+
+#: avante-elementor.php:139
+msgid "No Mega Menu found"
+msgstr ""
+
+#: avante-elementor.php:140
+msgid "No Mega Menu found in Trash"
+msgstr ""
+
+#: avante-elementor.php:233
+msgid "Items (default 3)"
+msgstr ""
+
+#: avante-elementor.php:235 avante-elementor.php:495
+msgid "Display Thumbnails"
+msgstr ""
+
+#: avante-elementor.php:316
+msgid "Flickr ID"
+msgstr ""
+
+#: avante-elementor.php:316
+msgid "Find your Flickr ID here"
+msgstr ""
+
+#: avante-elementor.php:318 avante-elementor.php:406 post-fields.php:247
+#: widgets/album-grid.php:125 widgets/album-grid.php:263
+#: widgets/background-list.php:126 widgets/background-list.php:240
+#: widgets/blog-posts.php:301 widgets/course-grid.php:193
+#: widgets/course-grid.php:364 widgets/distortion-grid.php:131
+#: widgets/distortion-grid.php:211 widgets/gallery-fullscreen.php:179
+#: widgets/gallery-fullscreen.php:276 widgets/gallery-grid.php:248
+#: widgets/gallery-justified.php:243 widgets/gallery-masonry.php:234
+#: widgets/gallery-preview.php:179 widgets/gallery-preview.php:192
+#: widgets/horizontal-timeline.php:145 widgets/horizontal-timeline.php:207
+#: widgets/mouse-driven-vertical-carousel.php:142
+#: widgets/mouse-driven-vertical-carousel.php:272 widgets/music-player.php:134
+#: widgets/music-player.php:223 widgets/portfolio-3d-overlay.php:125
+#: widgets/portfolio-3d-overlay.php:280 widgets/portfolio-classic.php:125
+#: widgets/portfolio-classic.php:271 widgets/portfolio-contain.php:125
+#: widgets/portfolio-contain.php:271 widgets/portfolio-coverflow.php:125
+#: widgets/portfolio-coverflow.php:241 widgets/portfolio-grid-overlay.php:125
+#: widgets/portfolio-grid-overlay.php:280 widgets/portfolio-grid.php:125
+#: widgets/portfolio-grid.php:280 widgets/portfolio-masonry-grid.php:125
+#: widgets/portfolio-masonry-grid.php:255 widgets/portfolio-masonry.php:125
+#: widgets/portfolio-masonry.php:245
+#: widgets/portfolio-timeline-vertical.php:133
+#: widgets/portfolio-timeline-vertical.php:274
+#: widgets/portfolio-timeline.php:153 widgets/portfolio-timeline.php:246
+#: widgets/pricing-table.php:117 widgets/pricing-table.php:386
+#: widgets/slider-animated-frame.php:126 widgets/slider-animated-frame.php:186
+#: widgets/slider-animated.php:126 widgets/slider-animated.php:199
+#: widgets/slider-clip-path.php:126 widgets/slider-clip-path.php:173
+#: widgets/slider-fade-up.php:126 widgets/slider-fade-up.php:222
+#: widgets/slider-flip.php:126 widgets/slider-flip.php:211
+#: widgets/slider-glitch-slideshow.php:126
+#: widgets/slider-glitch-slideshow.php:223 widgets/slider-horizontal.php:126
+#: widgets/slider-horizontal.php:348 widgets/slider-image-carousel.php:126
+#: widgets/slider-image-carousel.php:242 widgets/slider-motion-reveal.php:126
+#: widgets/slider-motion-reveal.php:239 widgets/slider-multi-layouts.php:156
+#: widgets/slider-multi-layouts.php:295 widgets/slider-parallax.php:126
+#: widgets/slider-parallax.php:267 widgets/slider-popout.php:126
+#: widgets/slider-popout.php:177 widgets/slider-property-clip.php:193
+#: widgets/slider-property-clip.php:195 widgets/slider-property-clip.php:222
+#: widgets/slider-room.php:126 widgets/slider-room.php:189
+#: widgets/slider-slice.php:126 widgets/slider-slice.php:227
+#: widgets/slider-split-carousel.php:126 widgets/slider-split-carousel.php:237
+#: widgets/slider-split-slick.php:126
+#: widgets/slider-synchronized-carousel.php:126
+#: widgets/slider-synchronized-carousel.php:224
+#: widgets/slider-transitions.php:134 widgets/slider-transitions.php:197
+#: widgets/slider-velo.php:126 widgets/slider-velo.php:226
+#: widgets/slider-vertical-parallax.php:126
+#: widgets/slider-vertical-parallax.php:181 widgets/slider-zoom.php:126
+#: widgets/slider-zoom.php:243 widgets/testimonial-card.php:126
+#: widgets/testimonial-card.php:263 widgets/video-grid.php:133
+#: widgets/video-grid.php:256
+msgid "Title"
+msgstr ""
+
+#: avante-elementor.php:320 avante-elementor.php:408
+msgid "Items (default 9)"
+msgstr ""
+
+#: avante-elementor.php:386
+msgid "Error: Please check if you enter Instagram username and Access Token in Theme Setting > Social Profiles"
+msgstr ""
+
+#: avante-elementor.php:480
+msgid "Category"
+msgstr ""
+
+#: avante-elementor.php:493
+msgid "Items (default 5)"
+msgstr ""
+
+#: extensions.php:52
+msgid "Custom Animation"
+msgstr ""
+
+#: extensions.php:60
+msgid "Scroll Animation"
+msgstr ""
+
+#: extensions.php:61
+msgid "Add animation to element when scrolling through page contents"
+msgstr ""
+
+#: extensions.php:63 extensions.php:391 extensions.php:787 extensions.php:824
+#: widgets/album-grid.php:205 widgets/album-grid.php:217
+#: widgets/album-grid.php:229 widgets/blog-posts.php:184
+#: widgets/blog-posts.php:196 widgets/blog-posts.php:208
+#: widgets/blog-posts.php:275 widgets/course-grid.php:242
+#: widgets/course-grid.php:254 widgets/course-grid.php:266
+#: widgets/course-grid.php:305 widgets/course-grid.php:317
+#: widgets/course-grid.php:329 widgets/course-grid.php:341
+#: widgets/course-grid.php:353 widgets/gallery-fullscreen.php:123
+#: widgets/gallery-grid.php:140 widgets/gallery-grid.php:223
+#: widgets/gallery-grid.php:235 widgets/gallery-horizontal.php:189
+#: widgets/gallery-horizontal.php:220 widgets/gallery-horizontal.php:251
+#: widgets/gallery-horizontal.php:263 widgets/gallery-horizontal.php:275
+#: widgets/gallery-horizontal.php:287 widgets/gallery-justified.php:194
+#: widgets/gallery-justified.php:206 widgets/gallery-justified.php:218
+#: widgets/gallery-justified.php:230 widgets/gallery-masonry.php:140
+#: widgets/gallery-masonry.php:209 widgets/gallery-masonry.php:221
+#: widgets/gallery-preview.php:123 widgets/gallery-preview.php:300
+#: widgets/gallery-preview.php:312 widgets/portfolio-3d-overlay.php:195
+#: widgets/portfolio-3d-overlay.php:221 widgets/portfolio-classic.php:195
+#: widgets/portfolio-classic.php:221 widgets/portfolio-contain.php:195
+#: widgets/portfolio-contain.php:221 widgets/portfolio-grid-overlay.php:195
+#: widgets/portfolio-grid-overlay.php:221 widgets/portfolio-grid.php:195
+#: widgets/portfolio-grid.php:221 widgets/portfolio-masonry-grid.php:195
+#: widgets/portfolio-masonry.php:195
+#: widgets/portfolio-timeline-vertical.php:213 widgets/pricing-table.php:171
+#: widgets/pricing-table.php:217 widgets/search.php:222
+#: widgets/slider-horizontal.php:220 widgets/slider-horizontal.php:251
+#: widgets/slider-horizontal.php:282 widgets/slider-horizontal.php:294
+#: widgets/slider-horizontal.php:306 widgets/slider-parallax.php:201
+#: widgets/slider-parallax.php:232 widgets/slider-parallax.php:244
+#: widgets/slider-split-carousel.php:217 widgets/slider-velo.php:178
+#: widgets/slider-zoom.php:220 widgets/slider-zoom.php:232
+#: widgets/team-grid.php:195 widgets/testimonial-card.php:185
+#: widgets/video-grid.php:195 widgets/video-grid.php:207
+msgid "Yes"
+msgstr ""
+
+#: extensions.php:64 extensions.php:392 extensions.php:788 extensions.php:825
+#: widgets/album-grid.php:206 widgets/album-grid.php:218
+#: widgets/album-grid.php:230 widgets/blog-posts.php:185
+#: widgets/blog-posts.php:197 widgets/blog-posts.php:209
+#: widgets/blog-posts.php:276 widgets/course-grid.php:243
+#: widgets/course-grid.php:255 widgets/course-grid.php:267
+#: widgets/course-grid.php:306 widgets/course-grid.php:318
+#: widgets/course-grid.php:330 widgets/course-grid.php:342
+#: widgets/course-grid.php:354 widgets/gallery-fullscreen.php:124
+#: widgets/gallery-grid.php:141 widgets/gallery-grid.php:224
+#: widgets/gallery-grid.php:236 widgets/gallery-horizontal.php:190
+#: widgets/gallery-horizontal.php:221 widgets/gallery-horizontal.php:252
+#: widgets/gallery-horizontal.php:264 widgets/gallery-horizontal.php:276
+#: widgets/gallery-horizontal.php:288 widgets/gallery-justified.php:195
+#: widgets/gallery-justified.php:207 widgets/gallery-justified.php:219
+#: widgets/gallery-justified.php:231 widgets/gallery-masonry.php:141
+#: widgets/gallery-masonry.php:210 widgets/gallery-masonry.php:222
+#: widgets/gallery-preview.php:124 widgets/gallery-preview.php:301
+#: widgets/gallery-preview.php:313 widgets/portfolio-3d-overlay.php:196
+#: widgets/portfolio-3d-overlay.php:222 widgets/portfolio-classic.php:196
+#: widgets/portfolio-classic.php:222 widgets/portfolio-contain.php:196
+#: widgets/portfolio-contain.php:222 widgets/portfolio-grid-overlay.php:196
+#: widgets/portfolio-grid-overlay.php:222 widgets/portfolio-grid.php:196
+#: widgets/portfolio-grid.php:222 widgets/portfolio-masonry-grid.php:196
+#: widgets/portfolio-masonry.php:196
+#: widgets/portfolio-timeline-vertical.php:214 widgets/pricing-table.php:172
+#: widgets/pricing-table.php:218 widgets/search.php:223
+#: widgets/slider-horizontal.php:221 widgets/slider-horizontal.php:252
+#: widgets/slider-horizontal.php:283 widgets/slider-horizontal.php:295
+#: widgets/slider-horizontal.php:307 widgets/slider-parallax.php:202
+#: widgets/slider-parallax.php:233 widgets/slider-parallax.php:245
+#: widgets/slider-split-carousel.php:218 widgets/slider-velo.php:179
+#: widgets/slider-zoom.php:221 widgets/slider-zoom.php:233
+#: widgets/team-grid.php:196 widgets/testimonial-card.php:186
+#: widgets/video-grid.php:196 widgets/video-grid.php:208
+msgid "No"
+msgstr ""
+
+#: extensions.php:74 extensions.php:402
+msgid "Disable for"
+msgstr ""
+
+#: extensions.php:78 extensions.php:406 widgets/blog-posts.php:288
+#: widgets/gallery-grid.php:251 widgets/gallery-grid.php:263
+#: widgets/gallery-justified.php:246 widgets/gallery-justified.php:258
+#: widgets/gallery-masonry.php:237 widgets/gallery-masonry.php:249
+#: widgets/portfolio-3d-overlay.php:267 widgets/portfolio-classic.php:258
+#: widgets/portfolio-contain.php:258 widgets/portfolio-grid-overlay.php:267
+#: widgets/portfolio-grid.php:267 widgets/portfolio-masonry-grid.php:242
+#: widgets/portfolio-masonry.php:232 widgets/pricing-table.php:267
+#: widgets/team-grid.php:246 widgets/video-grid.php:243
+msgid "None"
+msgstr ""
+
+#: extensions.php:79 extensions.php:407 widgets/blog-posts.php:289
+#: widgets/gallery-grid.php:264 widgets/gallery-justified.php:259
+#: widgets/gallery-masonry.php:250 widgets/portfolio-3d-overlay.php:268
+#: widgets/portfolio-classic.php:259 widgets/portfolio-contain.php:259
+#: widgets/portfolio-grid-overlay.php:268 widgets/portfolio-grid.php:268
+#: widgets/portfolio-masonry-grid.php:243 widgets/portfolio-masonry.php:233
+#: widgets/pricing-table.php:268 widgets/team-grid.php:247
+#: widgets/video-grid.php:244
+msgid "Mobile and Tablet"
+msgstr ""
+
+#: extensions.php:80 extensions.php:408 widgets/blog-posts.php:290
+#: widgets/gallery-grid.php:265 widgets/gallery-justified.php:260
+#: widgets/gallery-masonry.php:251 widgets/portfolio-3d-overlay.php:269
+#: widgets/portfolio-classic.php:260 widgets/portfolio-contain.php:260
+#: widgets/portfolio-grid-overlay.php:269 widgets/portfolio-grid.php:269
+#: widgets/portfolio-masonry-grid.php:244 widgets/portfolio-masonry.php:234
+#: widgets/pricing-table.php:269 widgets/team-grid.php:248
+#: widgets/video-grid.php:245
+msgid "Mobile"
+msgstr ""
+
+#: extensions.php:138
+msgid "Smoothness"
+msgstr ""
+
+#: extensions.php:139
+msgid "factor that slowdown the animation, the more the smoothier"
+msgstr ""
+
+#: extensions.php:181 extensions.php:531
+msgid "Scale X"
+msgstr ""
+
+#: extensions.php:204 extensions.php:554
+msgid "Scale Y"
+msgstr ""
+
+#: extensions.php:227
+msgid "Scale Z"
+msgstr ""
+
+#: extensions.php:250 extensions.php:577
+msgid "Rotate X"
+msgstr ""
+
+#: extensions.php:273 extensions.php:600
+msgid "Rotate Y"
+msgstr ""
+
+#: extensions.php:296 extensions.php:623
+msgid "Rotate Z"
+msgstr ""
+
+#: extensions.php:319 extensions.php:646
+msgid "Translate X"
+msgstr ""
+
+#: extensions.php:342 extensions.php:669
+msgid "Translate Y"
+msgstr ""
+
+#: extensions.php:365 extensions.php:692
+msgid "Translate Z"
+msgstr ""
+
+#: extensions.php:388 widgets/pricing-table.php:249
+msgid "Entrance Animation"
+msgstr ""
+
+#: extensions.php:389
+msgid "Add custom entrance animation to element"
+msgstr ""
+
+#: extensions.php:420 extensions.php:835 extensions.php:857
+msgid "Easing"
+msgstr ""
+
+#: extensions.php:424 extensions.php:861
+msgid "linear"
+msgstr ""
+
+#: extensions.php:425 extensions.php:862
+msgid "ease"
+msgstr ""
+
+#: extensions.php:426 extensions.php:863
+msgid "ease-in"
+msgstr ""
+
+#: extensions.php:427 extensions.php:864
+msgid "ease-out"
+msgstr ""
+
+#: extensions.php:428 extensions.php:865
+msgid "ease-in-out"
+msgstr ""
+
+#: extensions.php:429 extensions.php:866
+msgid "easeInQuad"
+msgstr ""
+
+#: extensions.php:430 extensions.php:867
+msgid "easeInCubic"
+msgstr ""
+
+#: extensions.php:431 extensions.php:868
+msgid "easeInQuart"
+msgstr ""
+
+#: extensions.php:432 extensions.php:869
+msgid "easeInQuint"
+msgstr ""
+
+#: extensions.php:433 extensions.php:870
+msgid "easeInSine"
+msgstr ""
+
+#: extensions.php:434 extensions.php:871
+msgid "easeInExpo"
+msgstr ""
+
+#: extensions.php:435 extensions.php:872
+msgid "easeInCirc"
+msgstr ""
+
+#: extensions.php:436 extensions.php:873
+msgid "easeInBack"
+msgstr ""
+
+#: extensions.php:437 extensions.php:874
+msgid "easeOutQuad"
+msgstr ""
+
+#: extensions.php:438 extensions.php:875
+msgid "easeOutCubic"
+msgstr ""
+
+#: extensions.php:439 extensions.php:876
+msgid "easeOutQuart"
+msgstr ""
+
+#: extensions.php:440 extensions.php:877
+msgid "easeOutQuint"
+msgstr ""
+
+#: extensions.php:441 extensions.php:878
+msgid "easeOutSine"
+msgstr ""
+
+#: extensions.php:442 extensions.php:879
+msgid "easeOutExpo"
+msgstr ""
+
+#: extensions.php:443 extensions.php:880
+msgid "easeOutCirc"
+msgstr ""
+
+#: extensions.php:444 extensions.php:881
+msgid "easeOutBack"
+msgstr ""
+
+#: extensions.php:445 extensions.php:882
+msgid "easeInOutQuad"
+msgstr ""
+
+#: extensions.php:446 extensions.php:883
+msgid "easeInOutCubic"
+msgstr ""
+
+#: extensions.php:447 extensions.php:884
+msgid "easeInOutQuart"
+msgstr ""
+
+#: extensions.php:448 extensions.php:885
+msgid "easeInOutQuint"
+msgstr ""
+
+#: extensions.php:449 extensions.php:886
+msgid "easeInOutSine"
+msgstr ""
+
+#: extensions.php:450 extensions.php:887
+msgid "easeInOutExpo"
+msgstr ""
+
+#: extensions.php:451 extensions.php:888
+msgid "easeInOutCirc"
+msgstr ""
+
+#: extensions.php:452 extensions.php:889
+msgid "easeInOutBack"
+msgstr ""
+
+#: extensions.php:467
+msgid "Animation Delay (ms)"
+msgstr ""
+
+#: extensions.php:486
+msgid "Animation Duration (ms)"
+msgstr ""
+
+#: extensions.php:505
+msgid "Opacity"
+msgstr ""
+
+#: extensions.php:715
+msgid "Skew X"
+msgstr ""
+
+#: extensions.php:738
+msgid "Skew Y"
+msgstr ""
+
+#: extensions.php:761
+msgid "Perspective"
+msgstr ""
+
+#: extensions.php:784
+msgid "Mouse Parallax"
+msgstr ""
+
+#: extensions.php:785
+msgid "Add parallax to element when moving mouse position"
+msgstr ""
+
+#: extensions.php:798
+msgid "Depth"
+msgstr ""
+
+#: extensions.php:821
+msgid "Infinite Animation"
+msgstr ""
+
+#: extensions.php:822
+msgid "Add custom infinite animation to element"
+msgstr ""
+
+#: extensions.php:839
+msgid "Swing 1"
+msgstr ""
+
+#: extensions.php:840
+msgid "Swing 2"
+msgstr ""
+
+#: extensions.php:841
+msgid "Wave"
+msgstr ""
+
+#: extensions.php:842
+msgid "Tilt"
+msgstr ""
+
+#: extensions.php:843
+msgid "Bounce"
+msgstr ""
+
+#: extensions.php:844
+msgid "Scale"
+msgstr ""
+
+#: extensions.php:845
+msgid "Spin"
+msgstr ""
+
+#: extensions.php:901
+msgid "Animation Duration (s)"
+msgstr ""
+
+#: megamenu.php:32
+msgid "Elementor Mega Menu (optional)"
+msgstr ""
+
+#: megamenu.php:107
+msgid "No mega menu found. Please create one first"
+msgstr ""
+
+#: menu-item-custom-fields/doc/menu-item-custom-fields-example.php:51
+msgid "Custom Field #1"
+msgstr ""
+
+#: menu-item-custom-fields/doc/menu-item-custom-fields-example.php:52
+msgid "Custom Field #2"
+msgstr ""
+
+#: page-fields.php:65
+msgid "Default Menu"
+msgstr ""
+
+#: page-fields.php:121 page-fields.php:123
+msgid "Page Title"
+msgstr ""
+
+#: page-fields.php:121 post-fields.php:58
+msgid "Transparent Header"
+msgstr ""
+
+#: page-fields.php:121 post-fields.php:58
+msgid "Check this option if you want to display header in transparent"
+msgstr ""
+
+#: page-fields.php:123
+msgid "Hide Default Page Title"
+msgstr ""
+
+#: page-fields.php:123
+msgid "Check this option if you want to hide default page header"
+msgstr ""
+
+#: page-fields.php:125
+msgid "Page Tagline"
+msgstr ""
+
+#: page-fields.php:125
+msgid "Page Tagline (Optional)"
+msgstr ""
+
+#: page-fields.php:125
+msgid "Enter page tagline. It will displays under page title (*Note: HTML code also support)"
+msgstr ""
+
+#: page-fields.php:131
+msgid "Select Header (Optional)"
+msgstr ""
+
+#: page-fields.php:131
+msgid "Page Header (Optional)"
+msgstr ""
+
+#: page-fields.php:131
+msgid "Select this page header content if you want to display header content other than default one"
+msgstr ""
+
+#: page-fields.php:133
+msgid "Select Sticky Header (Optional)"
+msgstr ""
+
+#: page-fields.php:133
+msgid "Page Sticky Header (Optional)"
+msgstr ""
+
+#: page-fields.php:133
+msgid "Select this page sticky header content if you want to display header content other than default one"
+msgstr ""
+
+#: page-fields.php:135
+msgid "Select Transparent Header (Optional)"
+msgstr ""
+
+#: page-fields.php:135
+msgid "Page Transparent Header (Optional)"
+msgstr ""
+
+#: page-fields.php:135
+msgid "Select this page transparent header content if you want to display transparent header content other than default one"
+msgstr ""
+
+#: page-fields.php:137
+msgid "Select Sidebar (Optional)"
+msgstr ""
+
+#: page-fields.php:137
+msgid "Page Sidebar (Optional)"
+msgstr ""
+
+#: page-fields.php:137
+msgid "Select this page sidebar to display. To use this option, you have to select page template end with \"Sidebar\" only"
+msgstr ""
+
+#: page-fields.php:139
+msgid "Select Footer (Optional)"
+msgstr ""
+
+#: page-fields.php:139
+msgid "Page Footer (Optional)"
+msgstr ""
+
+#: page-fields.php:139
+msgid "Select this page footer content if you want to display footer content other than default one"
+msgstr ""
+
+#: page-fields.php:141
+msgid "Footer"
+msgstr ""
+
+#: page-fields.php:141
+msgid "Hide Footer"
+msgstr ""
+
+#: page-fields.php:141
+msgid "Check this option if you want to hide default page footer"
+msgstr ""
+
+#: post-fields.php:4
+msgid "Thumbnail"
+msgstr ""
+
+#: post-fields.php:30
+msgid "Blank Page"
+msgstr ""
+
+#: post-fields.php:42
+msgid "Use default course template"
+msgstr ""
+
+#: post-fields.php:56
+msgid "Post Layout"
+msgstr ""
+
+#: post-fields.php:56
+msgid "You can select layout of this single post page."
+msgstr ""
+
+#: post-fields.php:60
+msgid "Hide Featured Image"
+msgstr ""
+
+#: post-fields.php:60
+msgid "Check this option if you want to hide post's featured image "
+msgstr ""
+
+#: post-fields.php:63
+msgid "Skill Level"
+msgstr ""
+
+#: post-fields.php:63
+msgid "Enter Skill Level for this course ex. Beginner"
+msgstr ""
+
+#: post-fields.php:64
+msgid "Preview Video Embed Code"
+msgstr ""
+
+#: post-fields.php:64
+msgid "Enter preview video HTML video embed code here"
+msgstr ""
+
+#: post-fields.php:66 templates/course-grid/index.php:215
+#: templates/course-grid/index.php:352 templates/course-grid/index.php:505
+msgid "What you'll learn"
+msgstr ""
+
+#: post-fields.php:66
+msgid "Enter short detailed information about what customer will learn from this course"
+msgstr ""
+
+#: post-fields.php:68
+msgid "Course Template (Optional)"
+msgstr ""
+
+#: post-fields.php:68
+msgid "Select course page template"
+msgstr ""
+
+#: post-fields.php:98
+msgid "Course"
+msgstr ""
+
+#: post-fields.php:280
+msgid "Add another"
+msgstr ""
+
+#: templates/blog-posts/classic.php:118 templates/blog-posts/grid.php:144
+#: templates/blog-posts/grid_no_space.php:120 templates/blog-posts/list.php:118
+#: templates/blog-posts/list_circle.php:117
+#: templates/blog-posts/masonry.php:143 templates/blog-posts/metro.php:170
+#: templates/blog-posts/metro_no_space.php:147
+msgid "Continue Reading"
+msgstr ""
+
+#: templates/blog-posts/index.php:100 templates/course-grid/index.php:654
+msgid "Page"
+msgstr ""
+
+#: templates/blog-posts/index.php:100 templates/course-grid/index.php:654
+msgid "of"
+msgstr ""
+
+#: templates/course-grid/index.php:243 templates/course-grid/index.php:380
+#: templates/course-grid/index.php:533
+msgid "ratings"
+msgstr ""
+
+#: templates/course-grid/index.php:247 templates/course-grid/index.php:384
+#: templates/course-grid/index.php:537
+msgid "rating"
+msgstr ""
+
+#: templates/course-grid/index.php:288 templates/course-grid/index.php:430
+#: templates/course-grid/index.php:564
+msgid "lessons"
+msgstr ""
+
+#: templates/course-grid/index.php:292 templates/course-grid/index.php:434
+#: templates/course-grid/index.php:568
+msgid "lesson"
+msgstr ""
+
+#: templates/course-grid/index.php:317 templates/course-grid/index.php:459
+#: templates/course-grid/index.php:593
+msgid "students"
+msgstr ""
+
+#: templates/course-grid/index.php:321 templates/course-grid/index.php:463
+#: templates/course-grid/index.php:597
+msgid "student"
+msgstr ""
+
+#: templates/portfolio-3d-overlay/index.php:72
+#: templates/portfolio-classic/index.php:84
+#: templates/portfolio-contain/index.php:84
+#: templates/portfolio-grid-overlay/index.php:72
+#: templates/portfolio-grid/index.php:72
+#: templates/portfolio-masonry-grid/index.php:61
+#: templates/portfolio-masonry/index.php:61 templates/video-grid/index.php:80
+msgid "All"
+msgstr ""
+
+#: templates/pricing-table/index.php:11
+msgid "Bill month"
+msgstr ""
+
+#: templates/pricing-table/index.php:13
+msgid "Bill yearly"
+msgstr ""
+
+#: templates/pricing-table/index.php:144
+msgid "Month"
+msgstr ""
+
+#: templates/pricing-table/index.php:145
+msgid "Year"
+msgstr ""
+
+#: templates/slider-slice/index.php:19
+msgid "Prev"
+msgstr ""
+
+#: templates/slider-slice/index.php:20
+msgid "Next"
+msgstr ""
+
+#: templates_source.php:30
+msgid "Avante Templates"
+msgstr ""
+
+#: tools.php:151
+msgid "Purchase URL"
+msgstr ""
+
+#: widgets/album-grid.php:41
+msgid "Grid Album"
+msgstr ""
+
+#: widgets/album-grid.php:103 widgets/album-grid.php:240
+#: widgets/background-list.php:104 widgets/blog-posts.php:127
+#: widgets/course-grid.php:145 widgets/distortion-grid.php:101
+#: widgets/flip-box.php:104 widgets/gallery-fullscreen.php:104
+#: widgets/gallery-grid.php:103 widgets/gallery-grid.php:276
+#: widgets/gallery-horizontal.php:104 widgets/gallery-horizontal.php:298
+#: widgets/gallery-justified.php:103 widgets/gallery-justified.php:271
+#: widgets/gallery-masonry.php:103 widgets/gallery-masonry.php:262
+#: widgets/gallery-preview.php:104 widgets/horizontal-timeline.php:104
+#: widgets/horizontal-timeline.php:271
+#: widgets/mouse-driven-vertical-carousel.php:104 widgets/music-player.php:103
+#: widgets/portfolio-3d-overlay.php:103 widgets/portfolio-classic.php:103
+#: widgets/portfolio-contain.php:103 widgets/portfolio-coverflow.php:103
+#: widgets/portfolio-grid-overlay.php:103 widgets/portfolio-grid.php:103
+#: widgets/portfolio-masonry-grid.php:103 widgets/portfolio-masonry.php:103
+#: widgets/portfolio-timeline-vertical.php:103
+#: widgets/portfolio-timeline-vertical.php:338
+#: widgets/portfolio-timeline.php:104 widgets/portfolio-timeline.php:310
+#: widgets/pricing-table.php:103 widgets/search.php:104
+#: widgets/slider-animated-frame.php:104 widgets/slider-animated-frame.php:218
+#: widgets/slider-animated.php:104 widgets/slider-animated.php:253
+#: widgets/slider-clip-path.php:104 widgets/slider-clip-path.php:205
+#: widgets/slider-fade-up.php:104 widgets/slider-fade-up.php:254
+#: widgets/slider-flip.php:104 widgets/slider-flip.php:243
+#: widgets/slider-glitch-slideshow.php:104
+#: widgets/slider-glitch-slideshow.php:255 widgets/slider-horizontal.php:104
+#: widgets/slider-horizontal.php:380 widgets/slider-image-carousel.php:104
+#: widgets/slider-image-carousel.php:306 widgets/slider-motion-reveal.php:104
+#: widgets/slider-motion-reveal.php:303 widgets/slider-multi-layouts.php:104
+#: widgets/slider-multi-layouts.php:327 widgets/slider-parallax.php:104
+#: widgets/slider-parallax.php:372 widgets/slider-popout.php:104
+#: widgets/slider-popout.php:209 widgets/slider-property-clip.php:104
+#: widgets/slider-property-clip.php:298 widgets/slider-room.php:104
+#: widgets/slider-room.php:221 widgets/slider-slice.php:104
+#: widgets/slider-split-carousel.php:104 widgets/slider-split-carousel.php:301
+#: widgets/slider-split-slick.php:104 widgets/slider-split-slick.php:161
+#: widgets/slider-synchronized-carousel.php:104
+#: widgets/slider-transitions.php:104 widgets/slider-transitions.php:229
+#: widgets/slider-velo.php:104 widgets/slider-velo.php:258
+#: widgets/slider-vertical-parallax.php:104
+#: widgets/slider-vertical-parallax.php:213 widgets/slider-zoom.php:104
+#: widgets/team-grid.php:103 widgets/testimonial-card.php:104
+#: widgets/testimonial-card.php:327 widgets/video-grid.php:103
+msgid "Content"
+msgstr ""
+
+#: widgets/album-grid.php:117 widgets/background-list.php:118
+#: widgets/distortion-grid.php:115 widgets/gallery-fullscreen.php:153
+#: widgets/gallery-preview.php:153
+#: widgets/mouse-driven-vertical-carousel.php:134
+#: widgets/portfolio-3d-overlay.php:117 widgets/portfolio-classic.php:117
+#: widgets/portfolio-contain.php:117 widgets/portfolio-coverflow.php:117
+#: widgets/portfolio-grid-overlay.php:117 widgets/portfolio-grid.php:117
+#: widgets/portfolio-masonry-grid.php:117 widgets/portfolio-masonry.php:117
+#: widgets/portfolio-timeline-vertical.php:125
+#: widgets/portfolio-timeline.php:118 widgets/slider-animated-frame.php:118
+#: widgets/slider-animated.php:118 widgets/slider-clip-path.php:118
+#: widgets/slider-fade-up.php:118 widgets/slider-flip.php:118
+#: widgets/slider-glitch-slideshow.php:118
+#: widgets/slider-image-carousel.php:118 widgets/slider-motion-reveal.php:118
+#: widgets/slider-multi-layouts.php:118 widgets/slider-parallax.php:118
+#: widgets/slider-popout.php:118 widgets/slider-slice.php:118
+#: widgets/slider-split-carousel.php:118 widgets/slider-split-slick.php:118
+#: widgets/slider-synchronized-carousel.php:118 widgets/slider-velo.php:118
+#: widgets/slider-vertical-parallax.php:118 widgets/slider-zoom.php:118
+#: widgets/testimonial-card.php:118 widgets/video-grid.php:117
+msgid "Image"
+msgstr ""
+
+#: widgets/album-grid.php:133 widgets/album-grid.php:295
+#: widgets/distortion-grid.php:139 widgets/distortion-grid.php:243
+#: widgets/horizontal-timeline.php:153 widgets/horizontal-timeline.php:239
+#: widgets/mouse-driven-vertical-carousel.php:150
+#: widgets/mouse-driven-vertical-carousel.php:304 widgets/music-player.php:142
+#: widgets/music-player.php:255 widgets/portfolio-3d-overlay.php:133
+#: widgets/portfolio-3d-overlay.php:312 widgets/portfolio-classic.php:133
+#: widgets/portfolio-classic.php:333 widgets/portfolio-contain.php:133
+#: widgets/portfolio-contain.php:333 widgets/portfolio-coverflow.php:133
+#: widgets/portfolio-coverflow.php:300 widgets/portfolio-grid-overlay.php:133
+#: widgets/portfolio-grid-overlay.php:312 widgets/portfolio-grid.php:133
+#: widgets/portfolio-grid.php:312 widgets/portfolio-masonry-grid.php:133
+#: widgets/portfolio-masonry-grid.php:314 widgets/portfolio-masonry.php:133
+#: widgets/portfolio-masonry.php:304
+#: widgets/portfolio-timeline-vertical.php:141
+#: widgets/portfolio-timeline-vertical.php:306
+#: widgets/portfolio-timeline.php:161 widgets/portfolio-timeline.php:278
+#: widgets/slider-image-carousel.php:134 widgets/slider-image-carousel.php:274
+#: widgets/slider-property-clip.php:202 widgets/slider-property-clip.php:204
+#: widgets/slider-property-clip.php:266 widgets/slider-split-carousel.php:134
+#: widgets/slider-split-carousel.php:269 widgets/video-grid.php:141
+#: widgets/video-grid.php:315
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/album-grid.php:141 widgets/background-list.php:150
+#: widgets/distortion-grid.php:163 widgets/portfolio-3d-overlay.php:141
+#: widgets/portfolio-classic.php:141 widgets/portfolio-contain.php:141
+#: widgets/portfolio-coverflow.php:141 widgets/portfolio-grid-overlay.php:141
+#: widgets/portfolio-grid.php:141 widgets/portfolio-masonry-grid.php:141
+#: widgets/portfolio-masonry.php:141
+#: widgets/portfolio-timeline-vertical.php:157
+#: widgets/portfolio-timeline.php:177 widgets/slider-flip.php:150
+#: widgets/slider-glitch-slideshow.php:150 widgets/slider-horizontal.php:150
+#: widgets/slider-multi-layouts.php:180 widgets/slider-parallax.php:150
+#: widgets/slider-popout.php:150 widgets/slider-room.php:150
+#: widgets/slider-slice.php:134 widgets/slider-split-carousel.php:158
+#: widgets/slider-split-slick.php:134 widgets/slider-transitions.php:158
+#: widgets/slider-velo.php:150 widgets/slider-vertical-parallax.php:142
+#: widgets/slider-zoom.php:150 widgets/team-grid.php:149
+msgid "Link URL"
+msgstr ""
+
+#: widgets/album-grid.php:150 widgets/distortion-grid.php:172
+#: widgets/horizontal-timeline.php:170
+#: widgets/mouse-driven-vertical-carousel.php:167 widgets/music-player.php:151
+#: widgets/portfolio-3d-overlay.php:158 widgets/portfolio-classic.php:158
+#: widgets/portfolio-contain.php:158 widgets/portfolio-coverflow.php:157
+#: widgets/portfolio-grid-overlay.php:158 widgets/portfolio-grid.php:158
+#: widgets/portfolio-masonry-grid.php:158 widgets/portfolio-masonry.php:158
+#: widgets/portfolio-timeline-vertical.php:174
+#: widgets/portfolio-timeline.php:186 widgets/slider-animated-frame.php:159
+#: widgets/slider-animated.php:159 widgets/slider-clip-path.php:143
+#: widgets/slider-fade-up.php:159 widgets/slider-flip.php:159
+#: widgets/slider-glitch-slideshow.php:159 widgets/slider-horizontal.php:159
+#: widgets/slider-image-carousel.php:167 widgets/slider-motion-reveal.php:159
+#: widgets/slider-multi-layouts.php:189 widgets/slider-parallax.php:159
+#: widgets/slider-popout.php:159 widgets/slider-room.php:159
+#: widgets/slider-slice.php:143 widgets/slider-split-carousel.php:167
+#: widgets/slider-split-slick.php:143
+#: widgets/slider-synchronized-carousel.php:151
+#: widgets/slider-transitions.php:167 widgets/slider-velo.php:159
+#: widgets/slider-vertical-parallax.php:151 widgets/slider-zoom.php:159
+#: widgets/testimonial-card.php:151 widgets/video-grid.php:158
+msgid "Slides"
+msgstr ""
+
+#: widgets/album-grid.php:166 widgets/course-grid.php:221
+#: widgets/gallery-grid.php:119 widgets/gallery-masonry.php:119
+#: widgets/portfolio-3d-overlay.php:174 widgets/portfolio-classic.php:174
+#: widgets/portfolio-contain.php:174 widgets/portfolio-grid-overlay.php:174
+#: widgets/portfolio-grid.php:174 widgets/portfolio-masonry-grid.php:174
+#: widgets/portfolio-masonry.php:174 widgets/pricing-table.php:196
+#: widgets/team-grid.php:174 widgets/video-grid.php:174
+msgid "Columns"
+msgstr ""
+
+#: widgets/album-grid.php:184 widgets/blog-posts.php:134
+#: widgets/slider-multi-layouts.php:139
+msgid "Layout"
+msgstr ""
+
+#: widgets/album-grid.php:188 widgets/slider-multi-layouts.php:143
+msgid "Layout 1"
+msgstr ""
+
+#: widgets/album-grid.php:189 widgets/slider-multi-layouts.php:144
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/album-grid.php:190 widgets/slider-multi-layouts.php:145
+msgid "Layout 3"
+msgstr ""
+
+#: widgets/album-grid.php:191 widgets/slider-multi-layouts.php:146
+msgid "Layout 4"
+msgstr ""
+
+#: widgets/album-grid.php:192 widgets/slider-multi-layouts.php:147
+msgid "Layout 5"
+msgstr ""
+
+#: widgets/album-grid.php:193 widgets/slider-multi-layouts.php:148
+msgid "Layout 6"
+msgstr ""
+
+#: widgets/album-grid.php:194 widgets/slider-multi-layouts.php:149
+msgid "Layout 7"
+msgstr ""
+
+#: widgets/album-grid.php:202 widgets/course-grid.php:239
+#: widgets/gallery-grid.php:137 widgets/gallery-masonry.php:137
+#: widgets/portfolio-3d-overlay.php:192 widgets/portfolio-classic.php:192
+#: widgets/portfolio-contain.php:192 widgets/portfolio-grid-overlay.php:192
+#: widgets/portfolio-grid.php:192 widgets/team-grid.php:192
+#: widgets/video-grid.php:192
+msgid "Column Spacing"
+msgstr ""
+
+#: widgets/album-grid.php:214
+msgid "Glare Effect"
+msgstr ""
+
+#: widgets/album-grid.php:226 widgets/album-grid.php:249
+#: widgets/background-list.php:226 widgets/gallery-grid.php:285
+#: widgets/gallery-justified.php:280 widgets/gallery-masonry.php:271
+#: widgets/portfolio-timeline-vertical.php:260 widgets/slider-clip-path.php:159
+#: widgets/slider-parallax.php:253 widgets/slider-split-slick.php:170
+#: widgets/slider-transitions.php:183 widgets/slider-vertical-parallax.php:167
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/album-grid.php:272 widgets/background-list.php:249
+#: widgets/blog-posts.php:310 widgets/course-grid.php:373
+#: widgets/distortion-grid.php:220 widgets/gallery-fullscreen.php:285
+#: widgets/gallery-grid.php:297 widgets/gallery-justified.php:292
+#: widgets/gallery-masonry.php:283 widgets/gallery-preview.php:201
+#: widgets/mouse-driven-vertical-carousel.php:281 widgets/music-player.php:232
+#: widgets/portfolio-3d-overlay.php:289 widgets/portfolio-classic.php:280
+#: widgets/portfolio-contain.php:280 widgets/portfolio-coverflow.php:250
+#: widgets/portfolio-grid-overlay.php:289 widgets/portfolio-grid.php:289
+#: widgets/portfolio-masonry-grid.php:264 widgets/portfolio-masonry.php:254
+#: widgets/portfolio-timeline-vertical.php:283 widgets/pricing-table.php:395
+#: widgets/slider-animated-frame.php:195 widgets/slider-animated.php:208
+#: widgets/slider-clip-path.php:182 widgets/slider-fade-up.php:231
+#: widgets/slider-flip.php:220 widgets/slider-glitch-slideshow.php:232
+#: widgets/slider-image-carousel.php:251 widgets/slider-motion-reveal.php:248
+#: widgets/slider-multi-layouts.php:304 widgets/slider-parallax.php:305
+#: widgets/slider-popout.php:186 widgets/slider-property-clip.php:243
+#: widgets/slider-room.php:198 widgets/slider-slice.php:236
+#: widgets/slider-split-slick.php:182
+#: widgets/slider-synchronized-carousel.php:233
+#: widgets/slider-transitions.php:206 widgets/slider-velo.php:235
+#: widgets/slider-vertical-parallax.php:190 widgets/slider-zoom.php:297
+#: widgets/testimonial-card.php:272 widgets/video-grid.php:265
+msgid "Title Color"
+msgstr ""
+
+#: widgets/album-grid.php:285 widgets/background-list.php:262
+#: widgets/blog-posts.php:323 widgets/blog-posts.php:355
+#: widgets/course-grid.php:386 widgets/distortion-grid.php:233
+#: widgets/gallery-fullscreen.php:298 widgets/gallery-grid.php:310
+#: widgets/gallery-justified.php:305 widgets/gallery-masonry.php:296
+#: widgets/gallery-preview.php:214 widgets/horizontal-timeline.php:229
+#: widgets/mouse-driven-vertical-carousel.php:294 widgets/music-player.php:245
+#: widgets/portfolio-3d-overlay.php:302 widgets/portfolio-classic.php:295
+#: widgets/portfolio-contain.php:295 widgets/portfolio-coverflow.php:263
+#: widgets/portfolio-grid-overlay.php:302 widgets/portfolio-grid.php:302
+#: widgets/portfolio-masonry-grid.php:277 widgets/portfolio-masonry.php:267
+#: widgets/portfolio-timeline-vertical.php:296
+#: widgets/portfolio-timeline.php:268 widgets/pricing-table.php:432
+#: widgets/slider-animated-frame.php:208 widgets/slider-animated.php:221
+#: widgets/slider-clip-path.php:195 widgets/slider-fade-up.php:244
+#: widgets/slider-flip.php:233 widgets/slider-glitch-slideshow.php:245
+#: widgets/slider-horizontal.php:370 widgets/slider-image-carousel.php:264
+#: widgets/slider-motion-reveal.php:261 widgets/slider-multi-layouts.php:317
+#: widgets/slider-parallax.php:318 widgets/slider-popout.php:199
+#: widgets/slider-property-clip.php:256 widgets/slider-room.php:211
+#: widgets/slider-slice.php:271 widgets/slider-split-carousel.php:259
+#: widgets/slider-synchronized-carousel.php:246
+#: widgets/slider-transitions.php:219 widgets/slider-velo.php:248
+#: widgets/slider-vertical-parallax.php:203 widgets/slider-zoom.php:310
+#: widgets/testimonial-card.php:285 widgets/video-grid.php:278
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/album-grid.php:304 widgets/distortion-grid.php:252
+#: widgets/mouse-driven-vertical-carousel.php:313 widgets/music-player.php:264
+#: widgets/portfolio-3d-overlay.php:321 widgets/portfolio-classic.php:342
+#: widgets/portfolio-contain.php:342 widgets/portfolio-coverflow.php:309
+#: widgets/portfolio-grid-overlay.php:321 widgets/portfolio-grid.php:321
+#: widgets/portfolio-masonry-grid.php:323 widgets/portfolio-masonry.php:313
+#: widgets/portfolio-timeline-vertical.php:315
+#: widgets/slider-image-carousel.php:283 widgets/slider-property-clip.php:275
+#: widgets/video-grid.php:324
+msgid "Sub Title Color"
+msgstr ""
+
+#: widgets/album-grid.php:317 widgets/distortion-grid.php:265
+#: widgets/horizontal-timeline.php:261
+#: widgets/mouse-driven-vertical-carousel.php:326 widgets/music-player.php:277
+#: widgets/portfolio-3d-overlay.php:334 widgets/portfolio-classic.php:355
+#: widgets/portfolio-contain.php:355 widgets/portfolio-coverflow.php:322
+#: widgets/portfolio-grid-overlay.php:334 widgets/portfolio-grid.php:334
+#: widgets/portfolio-masonry-grid.php:336 widgets/portfolio-masonry.php:326
+#: widgets/portfolio-timeline-vertical.php:328
+#: widgets/portfolio-timeline.php:300 widgets/slider-image-carousel.php:296
+#: widgets/slider-property-clip.php:288 widgets/slider-split-carousel.php:291
+#: widgets/video-grid.php:337
+msgid "Sub Title Typography"
+msgstr ""
+
+#: widgets/album-grid.php:327
+msgid "Grid Border"
+msgstr ""
+
+#: widgets/album-grid.php:336 widgets/gallery-grid.php:185
+#: widgets/gallery-justified.php:179 widgets/gallery-masonry.php:171
+msgid "Border Color"
+msgstr ""
+
+#: widgets/album-grid.php:348
+msgid "Border Width (in px)"
+msgstr ""
+
+#: widgets/background-list.php:42
+msgid "Background List"
+msgstr ""
+
+#: widgets/background-list.php:134 widgets/background-list.php:272
+#: widgets/gallery-fullscreen.php:181 widgets/gallery-fullscreen.php:340
+#: widgets/gallery-preview.php:181 widgets/gallery-preview.php:256
+#: widgets/horizontal-timeline.php:161
+#: widgets/portfolio-timeline-vertical.php:149
+#: widgets/portfolio-timeline.php:169 widgets/slider-animated-frame.php:134
+#: widgets/slider-animated.php:134 widgets/slider-clip-path.php:134
+#: widgets/slider-fade-up.php:134 widgets/slider-flip.php:134
+#: widgets/slider-glitch-slideshow.php:134 widgets/slider-horizontal.php:134
+#: widgets/slider-image-carousel.php:142 widgets/slider-motion-reveal.php:134
+#: widgets/slider-multi-layouts.php:164 widgets/slider-parallax.php:134
+#: widgets/slider-popout.php:134 widgets/slider-property-clip.php:211
+#: widgets/slider-room.php:134 widgets/slider-split-carousel.php:142
+#: widgets/slider-transitions.php:142 widgets/slider-velo.php:134
+#: widgets/slider-vertical-parallax.php:134 widgets/slider-zoom.php:134
+#: widgets/slider-zoom.php:320 widgets/team-grid.php:141
+#: widgets/team-grid.php:353 widgets/testimonial-card.php:134
+msgid "Description"
+msgstr ""
+
+#: widgets/background-list.php:142 widgets/distortion-grid.php:155
+#: widgets/slider-flip.php:142 widgets/slider-glitch-slideshow.php:142
+#: widgets/slider-horizontal.php:142 widgets/slider-multi-layouts.php:172
+#: widgets/slider-parallax.php:142 widgets/slider-popout.php:142
+#: widgets/slider-room.php:142 widgets/slider-split-carousel.php:150
+#: widgets/slider-transitions.php:150 widgets/slider-velo.php:142
+#: widgets/slider-zoom.php:142
+msgid "Link Title"
+msgstr ""
+
+#: widgets/background-list.php:159
+msgid "Slides (Max. 4)"
+msgstr ""
+
+#: widgets/background-list.php:175 widgets/portfolio-timeline-vertical.php:190
+#: widgets/slider-glitch-slideshow.php:175 widgets/slider-multi-layouts.php:232
+#: widgets/slider-parallax.php:175 widgets/slider-property-clip.php:170
+#: widgets/slider-slice.php:186 widgets/slider-zoom.php:175
+msgid "Height"
+msgstr ""
+
+#: widgets/background-list.php:203
+msgid "Transition (in milliseconds)"
+msgstr ""
+
+#: widgets/background-list.php:281 widgets/gallery-fullscreen.php:349
+#: widgets/gallery-preview.php:265 widgets/slider-animated-frame.php:227
+#: widgets/slider-animated.php:262 widgets/slider-clip-path.php:214
+#: widgets/slider-fade-up.php:285 widgets/slider-flip.php:252
+#: widgets/slider-glitch-slideshow.php:264
+#: widgets/slider-image-carousel.php:315 widgets/slider-motion-reveal.php:312
+#: widgets/slider-multi-layouts.php:336 widgets/slider-parallax.php:381
+#: widgets/slider-popout.php:218 widgets/slider-property-clip.php:307
+#: widgets/slider-room.php:230 widgets/slider-transitions.php:238
+#: widgets/slider-velo.php:267 widgets/slider-vertical-parallax.php:222
+#: widgets/slider-zoom.php:329 widgets/testimonial-card.php:336
+msgid "Description Color"
+msgstr ""
+
+#: widgets/background-list.php:294 widgets/gallery-fullscreen.php:362
+#: widgets/gallery-preview.php:278 widgets/slider-animated-frame.php:240
+#: widgets/slider-animated.php:275 widgets/slider-clip-path.php:229
+#: widgets/slider-fade-up.php:298 widgets/slider-flip.php:265
+#: widgets/slider-glitch-slideshow.php:277
+#: widgets/slider-image-carousel.php:328 widgets/slider-motion-reveal.php:325
+#: widgets/slider-multi-layouts.php:349 widgets/slider-parallax.php:394
+#: widgets/slider-popout.php:231 widgets/slider-property-clip.php:320
+#: widgets/slider-room.php:243 widgets/slider-transitions.php:251
+#: widgets/slider-velo.php:280 widgets/slider-vertical-parallax.php:235
+#: widgets/slider-zoom.php:342 widgets/testimonial-card.php:349
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/background-list.php:304 widgets/blog-posts.php:397
+#: widgets/distortion-grid.php:307 widgets/portfolio-coverflow.php:332
+#: widgets/portfolio-timeline.php:342 widgets/slider-animated.php:285
+#: widgets/slider-fade-up.php:308 widgets/slider-flip.php:275
+#: widgets/slider-image-carousel.php:338 widgets/slider-popout.php:241
+#: widgets/slider-synchronized-carousel.php:256
+#: widgets/slider-transitions.php:261 widgets/slider-velo.php:290
+#: widgets/slider-zoom.php:352
+msgid "Link"
+msgstr ""
+
+#: widgets/background-list.php:313 widgets/slider-multi-layouts.php:357
+#: widgets/slider-popout.php:250 widgets/slider-transitions.php:270
+#: widgets/slider-velo.php:299
+msgid "Link Font Color"
+msgstr ""
+
+#: widgets/background-list.php:325 widgets/slider-popout.php:262
+#: widgets/slider-transitions.php:282 widgets/slider-velo.php:311
+msgid "Link Border Color"
+msgstr ""
+
+#: widgets/background-list.php:338 widgets/blog-posts.php:419
+#: widgets/distortion-grid.php:341 widgets/slider-animated.php:321
+#: widgets/slider-fade-up.php:342 widgets/slider-flip.php:298
+#: widgets/slider-horizontal.php:424 widgets/slider-image-carousel.php:372
+#: widgets/slider-multi-layouts.php:371 widgets/slider-popout.php:275
+#: widgets/slider-split-carousel.php:345
+#: widgets/slider-synchronized-carousel.php:290
+#: widgets/slider-transitions.php:295 widgets/slider-velo.php:326
+#: widgets/slider-zoom.php:375
+msgid "Link Typography"
+msgstr ""
+
+#: widgets/blog-posts.php:41
+msgid "Blog Posts"
+msgstr ""
+
+#: widgets/blog-posts.php:138
+msgid "Classic"
+msgstr ""
+
+#: widgets/blog-posts.php:139
+msgid "Grid"
+msgstr ""
+
+#: widgets/blog-posts.php:140
+msgid "Grid No Space"
+msgstr ""
+
+#: widgets/blog-posts.php:141
+msgid "Masonry"
+msgstr ""
+
+#: widgets/blog-posts.php:142
+msgid "List"
+msgstr ""
+
+#: widgets/blog-posts.php:143
+msgid "List Circle"
+msgstr ""
+
+#: widgets/blog-posts.php:144
+msgid "Metro"
+msgstr ""
+
+#: widgets/blog-posts.php:145
+msgid "Metro No Space"
+msgstr ""
+
+#: widgets/blog-posts.php:153 widgets/course-grid.php:203
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/blog-posts.php:171 widgets/blog-posts.php:333
+msgid "Categories"
+msgstr ""
+
+#: widgets/blog-posts.php:181
+msgid "Show Post Categories"
+msgstr ""
+
+#: widgets/blog-posts.php:193
+msgid "Show Post Date"
+msgstr ""
+
+#: widgets/blog-posts.php:205 widgets/course-grid.php:251
+#: widgets/gallery-horizontal.php:272 widgets/gallery-preview.php:297
+#: widgets/slider-horizontal.php:303 widgets/slider-parallax.php:241
+#: widgets/slider-zoom.php:229 widgets/testimonial-card.php:182
+msgid "Show Pagination"
+msgstr ""
+
+#: widgets/blog-posts.php:217
+msgid "Text Display"
+msgstr ""
+
+#: widgets/blog-posts.php:221 widgets/blog-posts.php:365
+#: widgets/course-grid.php:431 widgets/distortion-grid.php:147
+#: widgets/distortion-grid.php:275
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/blog-posts.php:222
+msgid "Full Content"
+msgstr ""
+
+#: widgets/blog-posts.php:223
+msgid "No text"
+msgstr ""
+
+#: widgets/blog-posts.php:232
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/blog-posts.php:236 widgets/navigation-menu.php:159
+#: widgets/navigation-menu.php:216 widgets/portfolio-3d-overlay.php:357
+#: widgets/portfolio-classic.php:307 widgets/portfolio-classic.php:378
+#: widgets/portfolio-contain.php:307 widgets/portfolio-contain.php:378
+#: widgets/portfolio-coverflow.php:275 widgets/portfolio-grid-overlay.php:357
+#: widgets/portfolio-grid.php:357 widgets/portfolio-masonry-grid.php:289
+#: widgets/portfolio-masonry-grid.php:359 widgets/portfolio-masonry.php:279
+#: widgets/portfolio-masonry.php:349 widgets/slider-multi-layouts.php:283
+#: widgets/slider-parallax.php:280 widgets/slider-property-clip.php:138
+#: widgets/team-grid.php:295 widgets/video-grid.php:290
+#: widgets/video-grid.php:360
+msgid "Left"
+msgstr ""
+
+#: widgets/blog-posts.php:240 widgets/navigation-menu.php:163
+#: widgets/navigation-menu.php:220 widgets/portfolio-3d-overlay.php:361
+#: widgets/portfolio-classic.php:311 widgets/portfolio-classic.php:382
+#: widgets/portfolio-contain.php:311 widgets/portfolio-contain.php:382
+#: widgets/portfolio-coverflow.php:279 widgets/portfolio-grid-overlay.php:361
+#: widgets/portfolio-grid.php:361 widgets/portfolio-masonry-grid.php:293
+#: widgets/portfolio-masonry-grid.php:363 widgets/portfolio-masonry.php:283
+#: widgets/portfolio-masonry.php:353 widgets/slider-multi-layouts.php:284
+#: widgets/slider-parallax.php:284 widgets/team-grid.php:299
+#: widgets/video-grid.php:294 widgets/video-grid.php:364
+msgid "Center"
+msgstr ""
+
+#: widgets/blog-posts.php:244 widgets/navigation-menu.php:167
+#: widgets/navigation-menu.php:224 widgets/portfolio-3d-overlay.php:365
+#: widgets/portfolio-classic.php:315 widgets/portfolio-classic.php:386
+#: widgets/portfolio-contain.php:315 widgets/portfolio-contain.php:386
+#: widgets/portfolio-coverflow.php:283 widgets/portfolio-grid-overlay.php:365
+#: widgets/portfolio-grid.php:365 widgets/portfolio-masonry-grid.php:297
+#: widgets/portfolio-masonry-grid.php:367 widgets/portfolio-masonry.php:287
+#: widgets/portfolio-masonry.php:357 widgets/slider-multi-layouts.php:285
+#: widgets/slider-parallax.php:288 widgets/slider-property-clip.php:139
+#: widgets/team-grid.php:303 widgets/video-grid.php:298
+#: widgets/video-grid.php:368
+msgid "Right"
+msgstr ""
+
+#: widgets/blog-posts.php:254 widgets/course-grid.php:284
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/blog-posts.php:272
+msgid "Strip HTML from Post Content"
+msgstr ""
+
+#: widgets/blog-posts.php:284 widgets/gallery-grid.php:259
+#: widgets/gallery-justified.php:254 widgets/gallery-masonry.php:245
+#: widgets/portfolio-3d-overlay.php:263 widgets/portfolio-classic.php:254
+#: widgets/portfolio-contain.php:254 widgets/portfolio-grid-overlay.php:263
+#: widgets/portfolio-grid.php:263 widgets/portfolio-masonry-grid.php:238
+#: widgets/portfolio-masonry.php:228 widgets/pricing-table.php:263
+#: widgets/team-grid.php:242 widgets/video-grid.php:239
+msgid "Disable entrance animation for"
+msgstr ""
+
+#: widgets/blog-posts.php:291 widgets/gallery-grid.php:266
+#: widgets/gallery-justified.php:261 widgets/gallery-masonry.php:252
+#: widgets/portfolio-3d-overlay.php:270 widgets/portfolio-classic.php:261
+#: widgets/portfolio-contain.php:261 widgets/portfolio-grid-overlay.php:270
+#: widgets/portfolio-grid.php:270 widgets/portfolio-masonry-grid.php:245
+#: widgets/portfolio-masonry.php:235 widgets/pricing-table.php:270
+#: widgets/team-grid.php:249 widgets/video-grid.php:246
+msgid "Disable All"
+msgstr ""
+
+#: widgets/blog-posts.php:342
+msgid "Categories Color"
+msgstr ""
+
+#: widgets/blog-posts.php:374 widgets/course-grid.php:440
+#: widgets/distortion-grid.php:284
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/blog-posts.php:387 widgets/course-grid.php:453
+#: widgets/distortion-grid.php:297
+msgid "Excerpt Typography"
+msgstr ""
+
+#: widgets/blog-posts.php:406 widgets/distortion-grid.php:316
+#: widgets/portfolio-coverflow.php:350 widgets/portfolio-timeline.php:351
+#: widgets/slider-animated.php:294 widgets/slider-fade-up.php:317
+#: widgets/slider-flip.php:284 widgets/slider-image-carousel.php:347
+#: widgets/slider-property-clip.php:328
+#: widgets/slider-synchronized-carousel.php:265 widgets/slider-zoom.php:361
+msgid "Link Color"
+msgstr ""
+
+#: widgets/blog-posts.php:429 widgets/horizontal-timeline.php:118
+#: widgets/portfolio-timeline.php:126
+msgid "Date"
+msgstr ""
+
+#: widgets/blog-posts.php:438
+msgid "Date Color"
+msgstr ""
+
+#: widgets/blog-posts.php:451
+msgid "Date Typography"
+msgstr ""
+
+#: widgets/course-grid.php:41
+msgid "Course Grid"
+msgstr ""
+
+#: widgets/course-grid.php:152
+msgid "Grid Template"
+msgstr ""
+
+#: widgets/course-grid.php:156 widgets/navigation-menu.php:125
+msgid "Style 1"
+msgstr ""
+
+#: widgets/course-grid.php:157 widgets/navigation-menu.php:126
+msgid "Style 2"
+msgstr ""
+
+#: widgets/course-grid.php:158
+msgid "Style 3"
+msgstr ""
+
+#: widgets/course-grid.php:166
+msgid "Filter by Categories"
+msgstr ""
+
+#: widgets/course-grid.php:176
+msgid "Filter by Tags"
+msgstr ""
+
+#: widgets/course-grid.php:186
+msgid "Sort By"
+msgstr ""
+
+#: widgets/course-grid.php:190
+msgid "Default"
+msgstr ""
+
+#: widgets/course-grid.php:191
+msgid "Random"
+msgstr ""
+
+#: widgets/course-grid.php:192
+msgid "Published Date"
+msgstr ""
+
+#: widgets/course-grid.php:194
+msgid "Price (Low to High)"
+msgstr ""
+
+#: widgets/course-grid.php:195
+msgid "Price (High to Low)"
+msgstr ""
+
+#: widgets/course-grid.php:263 widgets/gallery-justified.php:203
+msgid "Hover Effect"
+msgstr ""
+
+#: widgets/course-grid.php:277 widgets/course-grid.php:463
+msgid "Meta Data"
+msgstr ""
+
+#: widgets/course-grid.php:302
+msgid "Show Rating"
+msgstr ""
+
+#: widgets/course-grid.php:314
+msgid "Show Lesson"
+msgstr ""
+
+#: widgets/course-grid.php:326
+msgid "Show Student Number"
+msgstr ""
+
+#: widgets/course-grid.php:338
+msgid "Show Price"
+msgstr ""
+
+#: widgets/course-grid.php:350
+msgid "Show Tooltip"
+msgstr ""
+
+#: widgets/course-grid.php:394 widgets/slider-horizontal.php:315
+#: widgets/slider-image-carousel.php:227 widgets/slider-split-carousel.php:226
+msgid "Content Background Color"
+msgstr ""
+
+#: widgets/course-grid.php:407
+msgid "Content Border Color"
+msgstr ""
+
+#: widgets/course-grid.php:421 widgets/testimonial-card.php:253
+msgid "Card Shadow"
+msgstr ""
+
+#: widgets/course-grid.php:472
+msgid "Meta Data Color"
+msgstr ""
+
+#: widgets/course-grid.php:485
+msgid "Meta Data Typography"
+msgstr ""
+
+#: widgets/course-grid.php:495
+msgid "Pricing"
+msgstr ""
+
+#: widgets/course-grid.php:504
+msgid "Pricing Background Color"
+msgstr ""
+
+#: widgets/course-grid.php:516
+msgid "Pricing Font Color"
+msgstr ""
+
+#: widgets/course-grid.php:529
+msgid "Pricing Typography"
+msgstr ""
+
+#: widgets/distortion-grid.php:39
+msgid "Distortion Hover Grid"
+msgstr ""
+
+#: widgets/distortion-grid.php:123
+msgid "Image on hover"
+msgstr ""
+
+#: widgets/distortion-grid.php:188
+msgid "Theme"
+msgstr ""
+
+#: widgets/distortion-grid.php:192
+msgid "Theme 1"
+msgstr ""
+
+#: widgets/distortion-grid.php:193
+msgid "Theme 2"
+msgstr ""
+
+#: widgets/distortion-grid.php:194
+msgid "Theme 3"
+msgstr ""
+
+#: widgets/distortion-grid.php:195
+msgid "Theme 4"
+msgstr ""
+
+#: widgets/distortion-grid.php:196
+msgid "Theme 5"
+msgstr ""
+
+#: widgets/distortion-grid.php:197
+msgid "Theme 6"
+msgstr ""
+
+#: widgets/distortion-grid.php:198
+msgid "Theme 7"
+msgstr ""
+
+#: widgets/distortion-grid.php:199
+msgid "Theme 8"
+msgstr ""
+
+#: widgets/distortion-grid.php:200
+msgid "Theme 9"
+msgstr ""
+
+#: widgets/distortion-grid.php:201
+msgid "Theme 10"
+msgstr ""
+
+#: widgets/distortion-grid.php:328 widgets/portfolio-coverflow.php:374
+#: widgets/slider-animated.php:307 widgets/slider-fade-up.php:329
+#: widgets/slider-image-carousel.php:359
+#: widgets/slider-synchronized-carousel.php:277
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/flip-box.php:42
+msgid "Flip Box"
+msgstr ""
+
+#: widgets/flip-box.php:111
+msgid "Default Background Image"
+msgstr ""
+
+#: widgets/flip-box.php:119
+msgid "Default Icon"
+msgstr ""
+
+#: widgets/flip-box.php:127
+msgid "Icon Max Width (in px)"
+msgstr ""
+
+#: widgets/flip-box.php:150
+msgid "Default Title"
+msgstr ""
+
+#: widgets/flip-box.php:158
+msgid "Default Description"
+msgstr ""
+
+#: widgets/flip-box.php:166
+msgid "Flip Background Image"
+msgstr ""
+
+#: widgets/flip-box.php:174
+msgid "Flip Title"
+msgstr ""
+
+#: widgets/flip-box.php:182
+msgid "Flip Button Title"
+msgstr ""
+
+#: widgets/flip-box.php:190
+msgid "Flip Button Link"
+msgstr ""
+
+#: widgets/flip-box.php:203 widgets/gallery-fullscreen.php:162
+#: widgets/gallery-horizontal.php:120 widgets/gallery-preview.php:162
+#: widgets/slider-horizontal.php:184 widgets/slider-multi-layouts.php:126
+#: widgets/slider-property-clip.php:120
+msgid "Image Size"
+msgstr ""
+
+#: widgets/flip-box.php:213 widgets/gallery-horizontal.php:155
+#: widgets/mouse-driven-vertical-carousel.php:183 widgets/music-player.php:167
+#: widgets/portfolio-coverflow.php:195 widgets/slider-animated.php:175
+#: widgets/slider-horizontal.php:198 widgets/slider-image-carousel.php:183
+#: widgets/slider-motion-reveal.php:175 widgets/slider-split-carousel.php:192
+msgid "Height (in px)"
+msgstr ""
+
+#: widgets/flip-box.php:235 widgets/gallery-grid.php:197
+#: widgets/gallery-masonry.php:183 widgets/music-player.php:189
+#: widgets/navigation-menu.php:248 widgets/portfolio-3d-overlay.php:230
+#: widgets/portfolio-classic.php:230 widgets/portfolio-contain.php:230
+#: widgets/portfolio-grid-overlay.php:230 widgets/portfolio-grid.php:230
+#: widgets/portfolio-masonry-grid.php:204 widgets/portfolio-masonry.php:204
+#: widgets/portfolio-timeline.php:221 widgets/pricing-table.php:226
+#: widgets/slider-animated-frame.php:340 widgets/slider-room.php:343
+#: widgets/team-grid.php:218 widgets/testimonial-card.php:229
+#: widgets/video-grid.php:216
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/flip-box.php:259 widgets/mouse-driven-vertical-carousel.php:205
+msgid "Overlay Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:273
+msgid "Default Content"
+msgstr ""
+
+#: widgets/flip-box.php:282
+msgid "Default Title Color"
+msgstr ""
+
+#: widgets/flip-box.php:295
+msgid "Default Title Typography"
+msgstr ""
+
+#: widgets/flip-box.php:303
+msgid "Default Description Color"
+msgstr ""
+
+#: widgets/flip-box.php:316
+msgid "Default Description Typography"
+msgstr ""
+
+#: widgets/flip-box.php:326
+msgid "Flip Content"
+msgstr ""
+
+#: widgets/flip-box.php:335
+msgid "Flip Title Color"
+msgstr ""
+
+#: widgets/flip-box.php:348
+msgid "Flip Title Typography"
+msgstr ""
+
+#: widgets/flip-box.php:356
+msgid "Flip Button Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:369
+msgid "Flip Button Font Color"
+msgstr ""
+
+#: widgets/flip-box.php:381
+msgid "Flip Button Hover Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:394
+msgid "Flip Button Hover Font Color"
+msgstr ""
+
+#: widgets/flip-box.php:407 widgets/pricing-table.php:660
+#: widgets/slider-animated-frame.php:332
+#: widgets/slider-glitch-slideshow.php:358 widgets/slider-parallax.php:486
+#: widgets/slider-room.php:335
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:42
+msgid "Fullscreen Gallery"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:111 widgets/gallery-grid.php:110
+#: widgets/gallery-horizontal.php:111 widgets/gallery-justified.php:110
+#: widgets/gallery-masonry.php:110 widgets/gallery-preview.php:111
+#: widgets/slider-property-clip.php:111
+msgid "Add Images"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:120 widgets/gallery-horizontal.php:217
+#: widgets/gallery-preview.php:120 widgets/portfolio-timeline-vertical.php:210
+#: widgets/slider-horizontal.php:248 widgets/slider-parallax.php:198
+#: widgets/slider-zoom.php:217
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:132 widgets/gallery-horizontal.php:229
+#: widgets/gallery-preview.php:132 widgets/portfolio-timeline-vertical.php:222
+#: widgets/slider-horizontal.php:260 widgets/slider-parallax.php:210
+#: widgets/slider-zoom.php:198
+msgid "Timer (in seconds)"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:166 widgets/gallery-preview.php:166
+msgid "Contain"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:167 widgets/gallery-preview.php:167
+msgid "Cover"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:175 widgets/gallery-preview.php:175
+msgid "Image Content"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:180 widgets/gallery-fullscreen.php:308
+#: widgets/gallery-preview.php:180 widgets/gallery-preview.php:224
+msgid "Caption"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:192
+msgid "Transition"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:201
+msgid "Transition Effect"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:205
+msgid "Slide"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:206
+msgid "Fade"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:207
+msgid "Cube"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:208
+msgid "Coverflow"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:209
+msgid "Flip"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:217
+#: widgets/portfolio-timeline-vertical.php:241
+msgid "Transition Speed (in milli-seconds)"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:238 widgets/horizontal-timeline.php:303
+#: widgets/portfolio-timeline-vertical.php:370
+#: widgets/portfolio-timeline.php:381 widgets/slider-animated-frame.php:365
+#: widgets/slider-clip-path.php:239 widgets/slider-fade-up.php:352
+#: widgets/slider-glitch-slideshow.php:368 widgets/slider-horizontal.php:434
+#: widgets/slider-motion-reveal.php:335 widgets/slider-multi-layouts.php:381
+#: widgets/slider-popout.php:285 widgets/slider-split-carousel.php:355
+#: widgets/slider-velo.php:336
+msgid "Navigation"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:247 widgets/gallery-horizontal.php:260
+#: widgets/gallery-preview.php:309 widgets/slider-horizontal.php:291
+#: widgets/slider-parallax.php:229
+msgid "Show Navigation"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:251
+msgid "On Hover"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:252
+msgid "Always"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:253
+msgid "Hide"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:261 widgets/gallery-horizontal.php:320
+#: widgets/gallery-preview.php:321 widgets/horizontal-timeline.php:312
+#: widgets/portfolio-timeline.php:390 widgets/slider-animated-frame.php:374
+#: widgets/slider-animated.php:340 widgets/slider-fade-up.php:385
+#: widgets/slider-glitch-slideshow.php:375 widgets/slider-horizontal.php:456
+#: widgets/slider-image-carousel.php:391 widgets/slider-motion-reveal.php:344
+#: widgets/slider-multi-layouts.php:390 widgets/slider-popout.php:294
+#: widgets/slider-room.php:366 widgets/slider-split-carousel.php:376
+#: widgets/slider-velo.php:345 widgets/testimonial-card.php:368
+msgid "Navigation Color"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:317 widgets/gallery-preview.php:233
+msgid "Caption Color"
+msgstr ""
+
+#: widgets/gallery-fullscreen.php:330 widgets/gallery-preview.php:246
+msgid "Caption Typography"
+msgstr ""
+
+#: widgets/gallery-grid.php:41
+msgid "Grid Gallery"
+msgstr ""
+
+#: widgets/gallery-grid.php:149 widgets/portfolio-3d-overlay.php:204
+#: widgets/portfolio-classic.php:204 widgets/portfolio-contain.php:204
+#: widgets/portfolio-grid-overlay.php:204 widgets/portfolio-grid.php:204
+#: widgets/team-grid.php:204
+msgid "Image Dimension"
+msgstr ""
+
+#: widgets/gallery-grid.php:153 widgets/portfolio-3d-overlay.php:208
+#: widgets/portfolio-classic.php:208 widgets/portfolio-contain.php:208
+#: widgets/portfolio-grid-overlay.php:208 widgets/portfolio-grid.php:208
+#: widgets/team-grid.php:208
+msgid "Landscape"
+msgstr ""
+
+#: widgets/gallery-grid.php:154 widgets/portfolio-3d-overlay.php:209
+#: widgets/portfolio-classic.php:209 widgets/portfolio-contain.php:209
+#: widgets/portfolio-grid-overlay.php:209 widgets/portfolio-grid.php:209
+#: widgets/team-grid.php:209
+msgid "Square"
+msgstr ""
+
+#: widgets/gallery-grid.php:155 widgets/portfolio-3d-overlay.php:210
+#: widgets/portfolio-classic.php:210 widgets/portfolio-contain.php:210
+#: widgets/portfolio-grid-overlay.php:210 widgets/portfolio-grid.php:210
+#: widgets/team-grid.php:210
+msgid "Portrait"
+msgstr ""
+
+#: widgets/gallery-grid.php:163 widgets/gallery-justified.php:157
+#: widgets/gallery-masonry.php:149
+msgid "Border Width"
+msgstr ""
+
+#: widgets/gallery-grid.php:220 widgets/gallery-justified.php:215
+#: widgets/gallery-masonry.php:206
+msgid "Show Title on Hover"
+msgstr ""
+
+#: widgets/gallery-grid.php:232 widgets/gallery-justified.php:227
+#: widgets/gallery-masonry.php:218
+msgid "Image Lightbox"
+msgstr ""
+
+#: widgets/gallery-grid.php:244 widgets/gallery-justified.php:239
+#: widgets/gallery-masonry.php:230
+msgid "Lightbox Content"
+msgstr ""
+
+#: widgets/gallery-grid.php:249 widgets/gallery-justified.php:244
+#: widgets/gallery-masonry.php:235
+msgid "Title and Caption"
+msgstr ""
+
+#: widgets/gallery-grid.php:250 widgets/gallery-justified.php:245
+#: widgets/gallery-masonry.php:236
+msgid "Title and Description"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:42
+msgid "Horizontal Gallery"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:124 widgets/slider-horizontal.php:188
+#: widgets/slider-multi-layouts.php:130 widgets/slider-property-clip.php:124
+msgid "Medium (default 768px x 768px max)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:125 widgets/slider-horizontal.php:189
+#: widgets/slider-multi-layouts.php:131 widgets/slider-property-clip.php:125
+msgid "Large (default 1024px x 1024px max)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:126 widgets/slider-horizontal.php:190
+#: widgets/slider-multi-layouts.php:132 widgets/slider-property-clip.php:126
+msgid "Original image resolution"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:134 widgets/slider-fade-up.php:197
+#: widgets/slider-synchronized-carousel.php:167
+msgid "Image Border Radius"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:147 widgets/navigation-menu.php:240
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:174
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:186 widgets/slider-horizontal.php:217
+#: widgets/slider-split-carousel.php:214
+msgid "Fullscreen"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:198 widgets/slider-horizontal.php:229
+msgid "Spacing (in px)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:248 widgets/slider-horizontal.php:279
+msgid "Loop"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:284
+msgid "Parallax Effect"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:307 widgets/slider-clip-path.php:248
+#: widgets/slider-horizontal.php:443 widgets/slider-image-carousel.php:404
+#: widgets/slider-split-carousel.php:364 widgets/slider-split-slick.php:216
+msgid "Navigation Background Color"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:332 widgets/gallery-preview.php:335
+#: widgets/slider-animated.php:353 widgets/slider-horizontal.php:479
+#: widgets/slider-slice.php:290 widgets/slider-synchronized-carousel.php:309
+msgid "Pagination Color"
+msgstr ""
+
+#: widgets/gallery-justified.php:41
+msgid "Justified Gallery"
+msgstr ""
+
+#: widgets/gallery-justified.php:119
+msgid "Row Height"
+msgstr ""
+
+#: widgets/gallery-justified.php:138 widgets/navigation-menu.php:143
+msgid "Margin"
+msgstr ""
+
+#: widgets/gallery-justified.php:191
+msgid "Justify Last Row"
+msgstr ""
+
+#: widgets/gallery-masonry.php:41
+msgid "Masonry Gallery"
+msgstr ""
+
+#: widgets/gallery-preview.php:42
+msgid "Fullscreen Gallery Preview"
+msgstr ""
+
+#: widgets/gallery-preview.php:288 widgets/slider-animated.php:331
+#: widgets/slider-image-carousel.php:382
+msgid "Pagination & Navigation"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:42
+msgid "Horizontal Timeline"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:120 widgets/portfolio-timeline.php:128
+msgid "2018"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:130 widgets/portfolio-timeline.php:138
+msgid "Display Date Format"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:134 widgets/portfolio-timeline.php:142
+msgid "Year Only"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:135 widgets/portfolio-timeline.php:143
+msgid "Month Only"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:136 widgets/portfolio-timeline.php:144
+msgid "Date & Month"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:137 widgets/portfolio-timeline.php:145
+msgid "Month & Year"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:138 widgets/portfolio-timeline.php:146
+msgid "Date & Month and Year"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:186 widgets/portfolio-timeline.php:202
+msgid "Timeline Spacing"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:216 widgets/portfolio-timeline.php:255
+#: widgets/slider-horizontal.php:357 widgets/slider-split-carousel.php:246
+msgid "Title font Color"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:248 widgets/portfolio-timeline.php:287
+#: widgets/slider-split-carousel.php:278
+msgid "Sub Title font Color"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:280
+#: widgets/portfolio-timeline-vertical.php:347
+#: widgets/portfolio-timeline.php:319 widgets/slider-horizontal.php:389
+#: widgets/slider-split-carousel.php:310
+msgid "Content font Color"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:293
+#: widgets/portfolio-timeline-vertical.php:360
+#: widgets/portfolio-timeline.php:332 widgets/slider-horizontal.php:402
+#: widgets/slider-split-carousel.php:323
+msgid "Content Typography"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:326
+#: widgets/portfolio-timeline-vertical.php:391
+#: widgets/portfolio-timeline.php:404
+msgid "Navigation Active Color"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:344
+msgid "Navigation Label Color"
+msgstr ""
+
+#: widgets/horizontal-timeline.php:357
+msgid "Navigation Label Typography"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:42
+msgid "Mouse Driven Vertical Carousel"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:111
+msgid "Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:119
+msgid "Sub Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:158 widgets/pricing-table.php:160
+#: widgets/slider-animated-frame.php:150 widgets/slider-animated.php:150
+#: widgets/slider-fade-up.php:150 widgets/slider-image-carousel.php:158
+#: widgets/slider-motion-reveal.php:150
+#: widgets/slider-synchronized-carousel.php:142
+msgid "Button Link URL"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:219
+msgid "Header & Sub Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:228
+msgid "Header Color"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:241
+msgid "Header Typography"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:249
+msgid "Sub Header Color"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:262
+msgid "Sub Header Typography"
+msgstr ""
+
+#: widgets/music-player.php:41
+msgid "Music Player"
+msgstr ""
+
+#: widgets/music-player.php:117
+msgid "Poster"
+msgstr ""
+
+#: widgets/music-player.php:125
+msgid "Audio"
+msgstr ""
+
+#: widgets/music-player.php:126
+msgid "Enter audio file URL in mp3 format for this item (optional)"
+msgstr ""
+
+#: widgets/music-player.php:213
+msgid "Shadow"
+msgstr ""
+
+#: widgets/music-player.php:287 widgets/search.php:111
+msgid "Icon"
+msgstr ""
+
+#: widgets/music-player.php:296
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/music-player.php:318
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/music-player.php:333
+msgid "Timer Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:42
+msgid "Theme Navigation Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:104
+msgid "Parent Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:111
+msgid "Navigation Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:121
+msgid "Hover Style"
+msgstr ""
+
+#: widgets/navigation-menu.php:135 widgets/navigation-menu.php:192
+#: widgets/search.php:170 widgets/team-grid.php:283 widgets/team-grid.php:343
+#: widgets/team-grid.php:375
+msgid "Typography"
+msgstr ""
+
+#: widgets/navigation-menu.php:155 widgets/navigation-menu.php:212
+#: widgets/portfolio-3d-overlay.php:353 widgets/portfolio-classic.php:303
+#: widgets/portfolio-classic.php:374 widgets/portfolio-contain.php:303
+#: widgets/portfolio-contain.php:374 widgets/portfolio-coverflow.php:271
+#: widgets/portfolio-grid-overlay.php:353 widgets/portfolio-grid.php:353
+#: widgets/portfolio-masonry-grid.php:285
+#: widgets/portfolio-masonry-grid.php:355 widgets/portfolio-masonry.php:275
+#: widgets/portfolio-masonry.php:345 widgets/slider-multi-layouts.php:279
+#: widgets/slider-parallax.php:276 widgets/team-grid.php:291
+#: widgets/video-grid.php:286 widgets/video-grid.php:356
+msgid "Alignment"
+msgstr ""
+
+#: widgets/navigation-menu.php:184
+msgid "Sub Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:200
+msgid "Padding"
+msgstr ""
+
+#: widgets/navigation-menu.php:273
+msgid "Parent Menu Colors"
+msgstr ""
+
+#: widgets/navigation-menu.php:282 widgets/navigation-menu.php:365
+msgid "Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:294 widgets/navigation-menu.php:377
+msgid "Hover Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:306 widgets/navigation-menu.php:389
+msgid "Hover Border Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:318 widgets/navigation-menu.php:401
+msgid "Active Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:330 widgets/navigation-menu.php:413
+msgid "Active Border Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:344
+msgid "Sub Menu Colors"
+msgstr ""
+
+#: widgets/navigation-menu.php:353 widgets/slider-flip.php:197
+#: widgets/slider-velo.php:187
+msgid "Background Color"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:41
+msgid "Portfolio 3D Overlay"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:149 widgets/portfolio-classic.php:149
+#: widgets/portfolio-contain.php:149 widgets/portfolio-grid-overlay.php:149
+#: widgets/portfolio-grid.php:149 widgets/portfolio-masonry-grid.php:149
+#: widgets/portfolio-masonry.php:149
+#: widgets/portfolio-timeline-vertical.php:165 widgets/video-grid.php:149
+msgid "Tag"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:151 widgets/portfolio-classic.php:151
+#: widgets/portfolio-contain.php:151 widgets/portfolio-grid-overlay.php:151
+#: widgets/portfolio-grid.php:151 widgets/portfolio-masonry-grid.php:151
+#: widgets/portfolio-masonry.php:151
+#: widgets/portfolio-timeline-vertical.php:167 widgets/video-grid.php:151
+msgid "Enter tag for this item for filterable option (optional)"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:218 widgets/portfolio-3d-overlay.php:344
+#: widgets/portfolio-classic.php:218 widgets/portfolio-classic.php:365
+#: widgets/portfolio-contain.php:218 widgets/portfolio-contain.php:365
+#: widgets/portfolio-grid-overlay.php:218
+#: widgets/portfolio-grid-overlay.php:344 widgets/portfolio-grid.php:218
+#: widgets/portfolio-grid.php:344 widgets/portfolio-masonry-grid.php:192
+#: widgets/portfolio-masonry-grid.php:346 widgets/portfolio-masonry.php:192
+#: widgets/portfolio-masonry.php:336 widgets/video-grid.php:204
+#: widgets/video-grid.php:347
+msgid "Filterable"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:254 widgets/portfolio-grid-overlay.php:254
+#: widgets/portfolio-grid.php:254 widgets/portfolio-masonry-grid.php:229
+#: widgets/slider-zoom.php:406
+msgid "Overlay Background"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:380 widgets/portfolio-classic.php:401
+#: widgets/portfolio-contain.php:401 widgets/portfolio-grid-overlay.php:380
+#: widgets/portfolio-grid.php:380 widgets/portfolio-masonry-grid.php:382
+#: widgets/portfolio-masonry.php:372 widgets/video-grid.php:383
+msgid "Filterable Title Color"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:393 widgets/portfolio-classic.php:414
+#: widgets/portfolio-contain.php:414 widgets/portfolio-grid-overlay.php:393
+#: widgets/portfolio-grid.php:393 widgets/portfolio-masonry-grid.php:395
+#: widgets/portfolio-masonry.php:385 widgets/video-grid.php:395
+msgid "Filterable Title Hover Color"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:406 widgets/portfolio-classic.php:427
+#: widgets/portfolio-contain.php:427 widgets/portfolio-grid-overlay.php:406
+#: widgets/portfolio-grid.php:406 widgets/portfolio-masonry-grid.php:408
+#: widgets/portfolio-masonry.php:398 widgets/video-grid.php:408
+msgid "Filterable Title Active Color"
+msgstr ""
+
+#: widgets/portfolio-3d-overlay.php:420 widgets/portfolio-classic.php:441
+#: widgets/portfolio-contain.php:441 widgets/portfolio-grid-overlay.php:420
+#: widgets/portfolio-grid.php:420 widgets/portfolio-masonry-grid.php:422
+#: widgets/portfolio-masonry.php:412 widgets/video-grid.php:422
+msgid "Filterable Title Typography"
+msgstr ""
+
+#: widgets/portfolio-classic.php:41
+msgid "Portfolio Classic"
+msgstr ""
+
+#: widgets/portfolio-contain.php:41
+msgid "Portfolio Contain"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:41
+msgid "Portfolio Coverflow"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:149
+msgid "Link Label"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:173
+msgid "Width (in px)"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:220
+msgid "Initial Slide"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:342
+msgid "Link Label Typography"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:362
+msgid "Link Background Color"
+msgstr ""
+
+#: widgets/portfolio-coverflow.php:387
+msgid "Link Active Color"
+msgstr ""
+
+#: widgets/portfolio-grid-overlay.php:41
+msgid "Portfolio Grid Overlay"
+msgstr ""
+
+#: widgets/portfolio-grid.php:41
+msgid "Portfolio Grid"
+msgstr ""
+
+#: widgets/portfolio-masonry-grid.php:41
+msgid "Portfolio Masonry Grid"
+msgstr ""
+
+#: widgets/portfolio-masonry.php:41
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: widgets/portfolio-timeline-vertical.php:41
+msgid "Portfolio Timeline Vertical"
+msgstr ""
+
+#: widgets/portfolio-timeline-vertical.php:117
+msgid "Label"
+msgstr ""
+
+#: widgets/portfolio-timeline-vertical.php:379
+msgid "Navigation Line Color"
+msgstr ""
+
+#: widgets/portfolio-timeline-vertical.php:406
+msgid "Label Typography"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:42
+msgid "Portfolio Timeline Horizontal"
+msgstr ""
+
+#: widgets/pricing-table.php:41
+msgid "Pricing Table"
+msgstr ""
+
+#: widgets/pricing-table.php:125
+msgid "Price/Month"
+msgstr ""
+
+#: widgets/pricing-table.php:128
+msgid "$10"
+msgstr ""
+
+#: widgets/pricing-table.php:134
+msgid "Price/Year"
+msgstr ""
+
+#: widgets/pricing-table.php:137
+msgid "$99"
+msgstr ""
+
+#: widgets/pricing-table.php:143 widgets/pricing-table.php:510
+msgid "Features"
+msgstr ""
+
+#: widgets/pricing-table.php:144
+msgid "Enter each feature seperate by enter (new line)"
+msgstr ""
+
+#: widgets/pricing-table.php:152 widgets/slider-animated-frame.php:142
+#: widgets/slider-animated.php:142 widgets/slider-fade-up.php:142
+#: widgets/slider-image-carousel.php:150 widgets/slider-motion-reveal.php:142
+#: widgets/slider-synchronized-carousel.php:134
+msgid "Button Title"
+msgstr ""
+
+#: widgets/pricing-table.php:168
+msgid "Mark as Featured Plan"
+msgstr ""
+
+#: widgets/pricing-table.php:180
+msgid "Plans"
+msgstr ""
+
+#: widgets/pricing-table.php:214
+msgid "Price Switching"
+msgstr ""
+
+#: widgets/pricing-table.php:253
+msgid "Slide Up"
+msgstr ""
+
+#: widgets/pricing-table.php:254
+msgid "Popout"
+msgstr ""
+
+#: widgets/pricing-table.php:255
+msgid "Fade In"
+msgstr ""
+
+#: widgets/pricing-table.php:280
+msgid "Plan"
+msgstr ""
+
+#: widgets/pricing-table.php:289
+msgid "Plan Content Padding"
+msgstr ""
+
+#: widgets/pricing-table.php:312
+msgid "Plan Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:324
+msgid "Plan Border Color"
+msgstr ""
+
+#: widgets/pricing-table.php:336
+msgid "Plan Hover Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:348
+msgid "Plan Hover Border Color"
+msgstr ""
+
+#: widgets/pricing-table.php:360
+msgid "Featured Plan Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:372
+msgid "Featured Plan Border Color"
+msgstr ""
+
+#: widgets/pricing-table.php:407
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/pricing-table.php:419
+msgid "Featured Plan Title Color"
+msgstr ""
+
+#: widgets/pricing-table.php:442
+msgid "Price"
+msgstr ""
+
+#: widgets/pricing-table.php:451
+msgid "Price Color"
+msgstr ""
+
+#: widgets/pricing-table.php:464
+msgid "Price Hover Color"
+msgstr ""
+
+#: widgets/pricing-table.php:476
+msgid "Featured Plan Price Color"
+msgstr ""
+
+#: widgets/pricing-table.php:491
+msgid "Price Typography"
+msgstr ""
+
+#: widgets/pricing-table.php:500
+msgid "Price per Typography"
+msgstr ""
+
+#: widgets/pricing-table.php:519
+msgid "Features Color"
+msgstr ""
+
+#: widgets/pricing-table.php:531
+msgid "Check Icon Color"
+msgstr ""
+
+#: widgets/pricing-table.php:543
+msgid "Features Hover Color"
+msgstr ""
+
+#: widgets/pricing-table.php:555
+msgid "Featured Plan Features Color"
+msgstr ""
+
+#: widgets/pricing-table.php:568
+msgid "Features Typography"
+msgstr ""
+
+#: widgets/pricing-table.php:578 widgets/slider-animated-frame.php:250
+#: widgets/slider-parallax.php:404 widgets/slider-room.php:253
+msgid "Button"
+msgstr ""
+
+#: widgets/pricing-table.php:587 widgets/slider-animated-frame.php:271
+#: widgets/slider-glitch-slideshow.php:309 widgets/slider-parallax.php:437
+#: widgets/slider-room.php:262
+msgid "Button Font Color"
+msgstr ""
+
+#: widgets/pricing-table.php:599 widgets/slider-animated-frame.php:259
+#: widgets/slider-glitch-slideshow.php:285 widgets/slider-parallax.php:413
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:611 widgets/slider-animated-frame.php:283
+#: widgets/slider-glitch-slideshow.php:297 widgets/slider-parallax.php:425
+#: widgets/slider-room.php:286
+msgid "Button Border Color"
+msgstr ""
+
+#: widgets/pricing-table.php:623 widgets/slider-animated-frame.php:307
+#: widgets/slider-glitch-slideshow.php:345 widgets/slider-parallax.php:473
+#: widgets/slider-room.php:310
+msgid "Button Hover Font Color"
+msgstr ""
+
+#: widgets/pricing-table.php:635 widgets/slider-animated-frame.php:295
+#: widgets/slider-glitch-slideshow.php:321 widgets/slider-parallax.php:449
+#: widgets/slider-room.php:298
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:647 widgets/slider-animated-frame.php:319
+#: widgets/slider-glitch-slideshow.php:333 widgets/slider-parallax.php:461
+#: widgets/slider-room.php:322
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: widgets/pricing-table.php:670
+msgid "Switching"
+msgstr ""
+
+#: widgets/pricing-table.php:679
+msgid "Switching Button Color"
+msgstr ""
+
+#: widgets/pricing-table.php:688
+msgid "Switching Background Color"
+msgstr ""
+
+#: widgets/pricing-table.php:697
+msgid "Switching Font Color"
+msgstr ""
+
+#: widgets/search.php:42
+msgid "Search Bar"
+msgstr ""
+
+#: widgets/search.php:123
+msgid "Button Icon Size"
+msgstr ""
+
+#: widgets/search.php:146
+msgid "Search Input Width"
+msgstr ""
+
+#: widgets/search.php:178
+msgid "Placeholder Text"
+msgstr ""
+
+#: widgets/search.php:180
+msgid "Search for anything"
+msgstr ""
+
+#: widgets/search.php:187
+msgid "Search Icon Size"
+msgstr ""
+
+#: widgets/search.php:212 widgets/search.php:219
+msgid "Auto Complete"
+msgstr ""
+
+#: widgets/search.php:231
+msgid "Auto Complete Width"
+msgstr ""
+
+#: widgets/search.php:255
+msgid "Results Typography"
+msgstr ""
+
+#: widgets/search.php:265
+msgid "Styles"
+msgstr ""
+
+#: widgets/search.php:274
+msgid "Button Icon Color"
+msgstr ""
+
+#: widgets/search.php:286
+msgid "Button Icon Hover Color"
+msgstr ""
+
+#: widgets/search.php:298
+msgid "Search Background Color"
+msgstr ""
+
+#: widgets/search.php:310
+msgid "Input Font Color"
+msgstr ""
+
+#: widgets/search.php:322
+msgid "Input Placeholder Font Color"
+msgstr ""
+
+#: widgets/search.php:334
+msgid "Search Input Border Color"
+msgstr ""
+
+#: widgets/search.php:346
+msgid "Search Icon Color"
+msgstr ""
+
+#: widgets/search.php:360
+msgid "Auto Complete Styles"
+msgstr ""
+
+#: widgets/search.php:369
+msgid "Auto Complete Font Color"
+msgstr ""
+
+#: widgets/search.php:381
+msgid "Auto Complete Background Color"
+msgstr ""
+
+#: widgets/search.php:393
+msgid "Auto Complete Hover Font Color"
+msgstr ""
+
+#: widgets/search.php:405
+msgid "Auto Complete Hover Background Color"
+msgstr ""
+
+#: widgets/search.php:449
+msgid "Default Search Page"
+msgstr ""
+
+#: widgets/slider-animated-frame.php:42
+msgid "Animated Frame Slider"
+msgstr ""
+
+#: widgets/slider-animated-frame.php:175 widgets/slider-slice.php:213
+#: widgets/slider-velo.php:211
+msgid "Frame Color"
+msgstr ""
+
+#: widgets/slider-animated.php:42
+msgid "Animated Slider"
+msgstr ""
+
+#: widgets/slider-animated.php:229 widgets/slider-parallax.php:326
+#: widgets/slider-zoom.php:252
+msgid "Title Width (in %)"
+msgstr ""
+
+#: widgets/slider-clip-path.php:42
+msgid "Fullscreen Clip Path Slider"
+msgstr ""
+
+#: widgets/slider-clip-path.php:260
+msgid "Navigation Arrow Color"
+msgstr ""
+
+#: widgets/slider-fade-up.php:42
+msgid "Fade Up Slider"
+msgstr ""
+
+#: widgets/slider-fade-up.php:175
+msgid "Content Height (in px)"
+msgstr ""
+
+#: widgets/slider-fade-up.php:263
+msgid "Description Width (in %)"
+msgstr ""
+
+#: widgets/slider-fade-up.php:361
+msgid "Navigation Font Size"
+msgstr ""
+
+#: widgets/slider-flip.php:42
+msgid "Flip Slider"
+msgstr ""
+
+#: widgets/slider-flip.php:175
+msgid "Slide Width"
+msgstr ""
+
+#: widgets/slider-glitch-slideshow.php:42
+msgid "Glitch Slideshow"
+msgstr ""
+
+#: widgets/slider-glitch-slideshow.php:198
+msgid "Image Width"
+msgstr ""
+
+#: widgets/slider-horizontal.php:42
+msgid "Horizontal Slider"
+msgstr ""
+
+#: widgets/slider-horizontal.php:118
+msgid "Images (max. 3)"
+msgstr ""
+
+#: widgets/slider-horizontal.php:177 widgets/slider-split-carousel.php:185
+msgid "Options"
+msgstr ""
+
+#: widgets/slider-horizontal.php:327
+msgid "Content Width (in %)"
+msgstr ""
+
+#: widgets/slider-horizontal.php:410 widgets/slider-split-carousel.php:331
+msgid "Link font Color"
+msgstr ""
+
+#: widgets/slider-horizontal.php:470 widgets/slider-slice.php:281
+#: widgets/slider-synchronized-carousel.php:300
+#: widgets/slider-transitions.php:305 widgets/testimonial-card.php:359
+msgid "Pagination"
+msgstr ""
+
+#: widgets/slider-image-carousel.php:42
+msgid "Image Carousel Slider"
+msgstr ""
+
+#: widgets/slider-image-carousel.php:205
+msgid "Content Padding (in px)"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:42
+msgid "Motion Reveal Slider"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:197
+msgid "Image Width (in px)"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:219
+msgid "Previous Button Title"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:228
+msgid "Next Button Title"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:271
+msgid "Preview Title"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:280
+msgid "Preview Title Color"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:293
+msgid "Preview Title Typography"
+msgstr ""
+
+#: widgets/slider-motion-reveal.php:358 widgets/slider-popout.php:309
+msgid "Navigation Typography"
+msgstr ""
+
+#: widgets/slider-multi-layouts.php:42
+msgid "Multi Layouts Slider"
+msgstr ""
+
+#: widgets/slider-multi-layouts.php:205 widgets/slider-property-clip.php:147
+#: widgets/slider-slice.php:159
+msgid "Width"
+msgstr ""
+
+#: widgets/slider-multi-layouts.php:256
+msgid "Images Opacity"
+msgstr ""
+
+#: widgets/slider-parallax.php:42
+msgid "Parallax Slider"
+msgstr ""
+
+#: widgets/slider-parallax.php:348 widgets/slider-zoom.php:275
+msgid "Title Margin Top (in px)"
+msgstr ""
+
+#: widgets/slider-parallax.php:494 widgets/slider-property-clip.php:341
+#: widgets/slider-transitions.php:314 widgets/slider-zoom.php:418
+msgid "Pagination Background Color"
+msgstr ""
+
+#: widgets/slider-popout.php:42
+msgid "Fullscreen Popout Slider"
+msgstr ""
+
+#: widgets/slider-property-clip.php:42
+msgid "Property Clip Slider"
+msgstr ""
+
+#: widgets/slider-property-clip.php:134
+msgid "Image Alignment"
+msgstr ""
+
+#: widgets/slider-property-clip.php:213
+msgid "Default description"
+msgstr ""
+
+#: widgets/slider-property-clip.php:231 widgets/slider-zoom.php:394
+msgid "Content Background"
+msgstr ""
+
+#: widgets/slider-room.php:42
+msgid "Fullscreen 3D Room Slider"
+msgstr ""
+
+#: widgets/slider-room.php:118
+msgid "Image (max. 8)"
+msgstr ""
+
+#: widgets/slider-room.php:175
+msgid "Background overlay Color"
+msgstr ""
+
+#: widgets/slider-room.php:274
+msgid "Button background Color"
+msgstr ""
+
+#: widgets/slider-slice.php:42
+msgid "Slice Slider"
+msgstr ""
+
+#: widgets/slider-slice.php:248
+msgid "Title Width"
+msgstr ""
+
+#: widgets/slider-slice.php:304
+msgid "Pagination Typography"
+msgstr ""
+
+#: widgets/slider-split-carousel.php:42
+msgid "Split Carousel Slider"
+msgstr ""
+
+#: widgets/slider-split-slick.php:42
+msgid "Fullscreen Split Slick Slider"
+msgstr ""
+
+#: widgets/slider-split-slick.php:194
+msgid "Title Letter Spacing (in px)"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:42
+msgid "Synchronized Carousel Slider"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:192
+msgid "Number"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:201
+msgid "Number Color"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:214
+msgid "Number Typography"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:321
+#: widgets/testimonial-card.php:380
+msgid "Pagination Active Color"
+msgstr ""
+
+#: widgets/slider-transitions.php:42
+msgid "Fullscreen Transitions Slider"
+msgstr ""
+
+#: widgets/slider-transitions.php:118
+msgid "Image Left"
+msgstr ""
+
+#: widgets/slider-transitions.php:126
+msgid "Image Right"
+msgstr ""
+
+#: widgets/slider-velo.php:42
+msgid "Fullscreen Velo Slider"
+msgstr ""
+
+#: widgets/slider-velo.php:175
+msgid "Expand Image by Default"
+msgstr ""
+
+#: widgets/slider-velo.php:199
+msgid "Background Overlay Color"
+msgstr ""
+
+#: widgets/slider-vertical-parallax.php:42
+msgid "Fullscreen Vertical Parallax Slider"
+msgstr ""
+
+#: widgets/slider-zoom.php:42
+msgid "Zoom Slider"
+msgstr ""
+
+#: widgets/slider-zoom.php:385
+msgid "Background"
+msgstr ""
+
+#: widgets/team-grid.php:41
+msgid "Team Grid"
+msgstr ""
+
+#: widgets/team-grid.php:117
+msgid "Profile Image"
+msgstr ""
+
+#: widgets/team-grid.php:125 widgets/team-grid.php:259
+msgid "Full Name"
+msgstr ""
+
+#: widgets/team-grid.php:133 widgets/team-grid.php:321
+msgid "Job Title"
+msgstr ""
+
+#: widgets/team-grid.php:158
+msgid "Team Member"
+msgstr ""
+
+#: widgets/team-grid.php:268 widgets/team-grid.php:330
+#: widgets/team-grid.php:362
+msgid "Color"
+msgstr ""
+
+#: widgets/testimonial-card.php:42
+msgid "Testimonial Card"
+msgstr ""
+
+#: widgets/testimonial-card.php:142 widgets/testimonial-card.php:295
+msgid "Client Name"
+msgstr ""
+
+#: widgets/testimonial-card.php:167
+msgid "Beginning Slide"
+msgstr ""
+
+#: widgets/testimonial-card.php:171
+msgid "First"
+msgstr ""
+
+#: widgets/testimonial-card.php:172
+msgid "Second"
+msgstr ""
+
+#: widgets/testimonial-card.php:173
+msgid "Middle"
+msgstr ""
+
+#: widgets/testimonial-card.php:174
+msgid "Last"
+msgstr ""
+
+#: widgets/testimonial-card.php:196
+msgid "Card"
+msgstr ""
+
+#: widgets/testimonial-card.php:205
+msgid "Card Background Color"
+msgstr ""
+
+#: widgets/testimonial-card.php:217
+msgid "Card Border Color"
+msgstr ""
+
+#: widgets/testimonial-card.php:304
+msgid "Client Name Color"
+msgstr ""
+
+#: widgets/testimonial-card.php:317
+msgid "Name Typography"
+msgstr ""
+
+#: widgets/video-grid.php:41
+msgid "Video Grid"
+msgstr ""
+
+#: widgets/video-grid.php:125
+msgid "Youtube Video ID"
+msgstr ""
+
+#: widgets/video-grid.php:127
+msgid "Enter Youtube video ID. You can get it from Youtube video URL ex. 7F37r50VUTQ"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Add New Event"
+#~ msgstr "Add New Gallery"
+
+#, fuzzy
+#~ msgid "Add New Event Category"
+#~ msgstr "Add New Gallery"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#, fuzzy
+#~ msgid "Leave A Reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"

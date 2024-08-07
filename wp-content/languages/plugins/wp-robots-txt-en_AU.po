@@ -1,0 +1,28 @@
+# Translation of Plugins - WP Robots Txt - Stable (latest release) in English (Australia)
+# This file is distributed under the same license as the Plugins - WP Robots Txt - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-13 01:00:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - WP Robots Txt - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Edit your robots.txt file from the WordPress admin"
+msgstr "Edit your robots.txt file from the WordPress admin"
+
+#. Plugin Name of the plugin
+msgid "WP Robots Txt"
+msgstr "WP Robots Txt"
+
+#: inc/class-robtxt-admin-page.php:178
+msgid "Robots.txt restored to default."
+msgstr "Robots.txt restored to default."
+
+#: inc/class-robtxt-admin-page.php:121 inc/class-robtxt-admin-page.php:128
+msgid "Robots.txt Content"
+msgstr "Robots.txt Content"
